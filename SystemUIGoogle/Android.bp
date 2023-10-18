@@ -23,7 +23,7 @@ android_library {
         "android.frameworks.stats-V1-java",
         "vendor-pixelatoms-java",
         "guava",
-//        "SystemUIGoogle-lib",
+        "SystemUIGoogle-lib",
     ],
     manifest: "AndroidManifest.xml",
 

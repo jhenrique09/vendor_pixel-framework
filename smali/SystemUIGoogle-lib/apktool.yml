@@ -1,0 +1,15 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: SystemUIGoogle-lib.jar
+compressionType: false
+doNotCompress:
+- classes.dex
+- META-INF/MANIFEST.MF
+isFrameworkApk: false
+packageInfo: null
+sdkInfo:
+  minSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+usesFramework: null
+version: 2.6.0
+versionInfo: null

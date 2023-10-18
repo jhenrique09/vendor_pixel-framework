@@ -1,0 +1,41 @@
+.class public final Lcom/google/android/systemui/columbus/legacy/gates/VrMode$vrStateCallbacks$1;
+.super Landroid/service/vr/IVrStateCallbacks$Stub;
+.source ""
+
+
+# instance fields
+.field public final synthetic this$0:Lcom/google/android/systemui/columbus/legacy/gates/VrMode;
+
+
+# direct methods
+.method public constructor <init>(Lcom/google/android/systemui/columbus/legacy/gates/VrMode;)V
+    .locals 0
+
+    iput-object p1, p0, Lcom/google/android/systemui/columbus/legacy/gates/VrMode$vrStateCallbacks$1;->this$0:Lcom/google/android/systemui/columbus/legacy/gates/VrMode;
+
+    invoke-direct {p0}, Landroid/service/vr/IVrStateCallbacks$Stub;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onVrStateChanged(Z)V
+    .locals 3
+
+    iget-object p0, p0, Lcom/google/android/systemui/columbus/legacy/gates/VrMode$vrStateCallbacks$1;->this$0:Lcom/google/android/systemui/columbus/legacy/gates/VrMode;
+
+    iget-object v0, p0, Lcom/google/android/systemui/columbus/legacy/gates/Gate;->coroutineScope:Lkotlinx/coroutines/internal/ContextScope;
+
+    new-instance v1, Lcom/google/android/systemui/columbus/legacy/gates/VrMode$vrStateCallbacks$1$onVrStateChanged$1;
+
+    const/4 v2, 0x0
+
+    invoke-direct {v1, p0, p1, v2}, Lcom/google/android/systemui/columbus/legacy/gates/VrMode$vrStateCallbacks$1$onVrStateChanged$1;-><init>(Lcom/google/android/systemui/columbus/legacy/gates/VrMode;ZLkotlin/coroutines/Continuation;)V
+
+    const/4 p0, 0x3
+
+    invoke-static {v0, v2, v2, v1, p0}, Lkotlinx/coroutines/BuildersKt;->launch$default(Lkotlinx/coroutines/CoroutineScope;Lkotlin/coroutines/CoroutineContext;Lkotlinx/coroutines/CoroutineStart;Lkotlin/jvm/functions/Function2;I)Lkotlinx/coroutines/StandaloneCoroutine;
+
+    return-void
+.end method
