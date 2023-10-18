@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">কণ্ঠধ্বনিৰ দ্বাৰা সন্ধান</string>
+    <string name="accessibility_next_alarm">পৰৱৰ্তী এলাৰ্ম %sত</string>
+    <string name="accessibility_settings_gear">Pixel Stand ছেটিং</string>
+    <string name="accessibility_smartspace_page">%2$d খন পৃষ্ঠাৰ %1$d নম্বৰখন</string>
+    <string name="adaptive_charging_notify_des">%1$s বেটাৰী বাকী আছে। বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰিবলৈ স্থিৰভাৱে চাৰ্জ কৰি থকা হৈছে।</string>
+    <string name="adaptive_charging_notify_title">অভিযোজিত চাৰ্জিং অন হৈ আছে</string>
+    <string name="adaptive_charging_notify_turn_off_once">এবাৰ অফ কৰক</string>
+    <string name="adaptive_charging_time_estimate">%1$s • অভিযোজিত চাৰ্জিং • %2$sৰ ভিতৰত সম্পূৰ্ণ হ’ব</string>
+    <string name="assistant_keyboard_icon_label">কীব’ৰ্ড</string>
+    <string name="assistant_scrim_label">শুনি আছে, বাতিল কৰিবলৈ টিপক</string>
+    <string name="assistant_zero_state_icon_label">Assistantৰ ৰূপৰেখা</string>
+    <string name="battery_health_notify_learn_more">অধিক জানক</string>
+    <string name="charging_reverse_text">বেটাৰী শ্বেয়াৰ কৰি থকা হৈছে</string>
+    <string name="columbus_bouncer_message">কুইক টেপ সম্পূৰ্ণ কৰিবলৈ আনলক কৰক</string>
+    <string name="columbus_target_request_dialog_allow">অনুমতি দিয়ক</string>
+    <string name="columbus_target_request_dialog_deny">অনুমতি নিদিব</string>
+    <string name="columbus_target_request_dialog_summary">%1$s খুলিবলৈ নিজৰ ফ’নটোৰ পিছফালে দুবাৰ টিপক। আপুনি যিকোনো সময়তে ছেটিঙত এইটো সলনি কৰিব পাৰে।</string>
+    <string name="columbus_target_request_dialog_title">%1$s খুলিবলৈ কুইক টেপ ব্যৱহাৰ কৰিবলৈ অনুমতি দিবনে?</string>
+    <string name="defender_notify_des">আপোনাৰ বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰাত সহায় কৰিবলৈ, চাৰ্জিং অপ্টিমাইজ কৰা হৈছে</string>
+    <string name="defender_notify_resume_charge">সম্পূৰ্ণ হোৱালৈকে চাৰ্জ কৰক</string>
+    <string name="defender_notify_title">আপোনাৰ বেটাৰী সুৰক্ষিত কৰি থকা হৈছে</string>
+    <string name="defender_post_notify_des">আপোনাৰ বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰাত সহায় কৰিবলৈ, চাৰ্জিং %1$sৰ পৰা %2$sলৈ অপ্টিমাইজ কৰা হৈছে</string>
+    <string name="defender_post_notify_title">চাৰ্জিং অপ্টিমাইজ কৰা হৈছে</string>
+    <string name="dock_a11y_action_show_photo_text">ফট’ ফ্ৰে’ম দেখুৱাওক</string>
+    <string name="dock_alignment_not_charging" product="default">তাঁৰৰ অবিহনে চাৰ্জ কৰিবলৈ ফ’নটো পুনৰ সংৰেখিত কৰক</string>
+    <string name="dock_alignment_slow_charging" product="default">খৰতকীয়াকৈ চাৰ্জ কৰিবলৈ ফ’নটো পুনৰ সংৰেখিত কৰক</string>
+    <string name="dock_defender_first_run_des">আপোনাৰ বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰাত সহায় কৰিবলৈ, ড’ক কৰাৰ সময়ত চাৰ্জিং অপ্টিমাইজ কৰা হয়। সম্পূৰ্ণকৈ চাৰ্জ কৰিবলৈ ছেটিঙলৈ যাওক।</string>
+    <string name="dock_defender_first_run_settings">ছেটিং</string>
+    <string name="dock_defender_first_run_title">আপোনাৰ বেটাৰী সুৰক্ষিত কৰি থকা হৈছে</string>
+    <string name="dock_photo_preview_text">ফট’ ফ্ৰে’ম আৰম্ভ হৈছে...</string>
+    <string name="dock_promo_text">ফট’ ফ্ৰে’মৰ বাবে বাওঁফাললৈ ছোৱাইপ কৰক</string>
+    <string name="extreme_battery_saver_text">চৰম</string>
+    <string name="extreme_low_battery_notification_text">আপোনাৰ ফ’নটো সোনকালে চাৰ্জ নকৰিলে সেইটো শ্বাট ডাউন হৈ যাব</string>
+    <string name="extreme_low_battery_notification_title">বেটাৰী তেনেই কম আছে</string>
+    <string name="face_reenroll_dialog_confirm">ছেট আপ কৰক</string>
+    <string name="face_reenroll_failure_dialog_content">ফেচ আনলকৰ সুবিধাটো ছেট আপ কৰিব পৰা নগ’ল। আকৌ চেষ্টা কৰিবলৈ ছেটিঙলৈ যাওক।</string>
+    <string name="finder_active">পাৱাৰ অফ কৰা থাকিলেও Find My Deviceৰ জৰিয়তে আপুনি এই ফ’নটোৰ অৱস্থান নিৰ্ধাৰণ কৰিব পাৰে</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">কথা পাতিবলৈ ছোৱাইপ কৰক</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">অধিক জানক</string>
+    <string name="incompatible_charging_notify_des">বেটাৰী লাহে লাহে চাৰ্জ হৈছে অথবা চাৰ্জ নহ’ব। কে’বল আৰু পাৱাৰ এডাপ্টাৰটোৱে আপোনাৰ ফ’নৰ সৈতে কাম কৰেনে নকৰে পৰীক্ষা কৰক</string>
+    <string name="incompatible_charging_notify_title">চাৰ্জিঙৰ আনুষংগিক সামগ্ৰীত সমস্যা হৈছে</string>
+    <string name="install_app">এপ্‌টো ইনষ্টল কৰক</string>
+    <string name="keyguard_indication_trust_unlocked">এক্সটেণ্ড আনলকে আনলক কৰি ৰাখিছে</string>
+    <string name="low_battery_label">বেটাৰী কমিছে</string>
+    <string name="low_battery_notification_text">%s বেটাৰী বাকী আছে</string>
+    <string name="low_battery_notification_title">মানক বেটাৰী সঞ্চয়কাৰী অন কৰিবনে?</string>
+    <string name="quick_settings_rotation_posture_folded">ভাঁজ কৰা</string>
+    <string name="quick_settings_rotation_posture_unfolded">ভাঁজ নকৰা</string>
+    <string name="reverse_charging_device_name_text">অন্য Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$sএ চাৰ্জ প্ৰদান কৰি আছে (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">বেটাৰী শ্বেয়াৰ কৰাৰ সুবিধাটো অন আছে</string>
+    <string name="reverse_charging_title">বেটাৰী শ্বেয়াৰ কৰাৰ সুবিধা</string>
+    <string name="saver_confirmation_dialog_dismiss_text">বাতিল কৰক</string>
+    <string name="saver_confirmation_dialog_subtitle">ব্যৱহাৰ কৰিবলৈ ম’ডটো বাছনি কৰক</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">ওপৰত সূচীবদ্ধ কৰা আটাইবোৰ সালসলনি অন্তৰ্ভুক্ত কৰে। অত্যাৱশ্যকীয় নোহোৱা এপ্‌ আৰু সেইবোৰৰ জাননীও পজ কৰে।</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">ভিজুৱেল ইফেক্ট আৰু নেপথ্যৰ কাৰ্যকলাপ সীমিত কৰে, যেনে এপৰ আপডে’ট। ইতিমধ্যে অন কৰি থোৱা নাথাকিলে গাঢ় ৰঙৰ থীম অন কৰে।</string>
+    <string name="saver_confirmation_dialog_title">বেটাৰী সঞ্চয়কাৰীলৈ স্বাগতম</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">চৰম বেটাৰী সঞ্চয়কাৰী</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">মানক বেটাৰী সঞ্চয়কাৰী</string>
+    <string name="saver_notification_dismiss_text">নালাগে, ধন্যবাদ</string>
+    <string name="screen_protector_absent_message">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী ম’ডটো অক্ষম কৰাটোৱে স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী ব্যৱহাৰ নকৰাৰ সময়ত স্পৰ্শ উন্নত কৰে।</string>
+    <string name="screen_protector_disable_notification">জাননী অক্ষম কৰক</string>
+    <string name="screen_protector_go_to_settings">ছেটিঙলৈ যাওক</string>
+    <string name="screen_protector_got_it">বুজি পালোঁ</string>
+    <string name="screen_protector_mode_title">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী ম’ড</string>
+    <string name="screen_protector_present_message">স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী ম’ডটো সক্ষম কৰাটোৱে স্ক্ৰীনৰ সুৰক্ষা প্ৰদানকাৰী ব্যৱহাৰ কৰাৰ সময়ত স্পৰ্শ উন্নত কৰে।</string>
+    <string name="selectable_url_description">বাছনি কৰিব পৰা URL</string>
+    <string name="severe_low_battery_dialog_switch_action_text">সলনি কৰক</string>
+    <string name="severe_low_battery_dialog_switch_text">"%s বেটাৰী বাকী আছে
+
+এইটোৱে অত্যাৱশ্যকীয় নোহোৱা আটাইবোৰ এপ্‌ আৰু সেইবোৰৰ জাননী পজ কৰিব"</string>
+    <string name="severe_low_battery_dialog_switch_title">চৰম বেটাৰী সঞ্চয়কাৰীলৈ সলনি কৰিবনে?</string>
+    <string name="severe_low_battery_dialog_text">"%s বেটাৰী বাকী আছে
+
+এইটোৱে ভিজুৱেল ইফেক্ট আৰু নেপথ্যৰ কাৰ্যকলাপ কম কৰিব আৰু অত্যাৱশ্যকীয় নোহোৱা আটাইবোৰ এপ্‌ পজ কৰিব"</string>
+    <string name="severe_low_battery_dialog_title">চৰম বেটাৰী সঞ্চয়কাৰী অন কৰিবনে?</string>
+    <string name="shutdown_progress">বন্ধ কৰি থকা হৈছে…</string>
+    <string name="smartspace_flight_qr_code">কিউআৰ ক’ড</string>
+    <string name="squeeze_invocation_prompt">কথা পাতিবলৈ দুয়োকাষত হেঁচা দিয়ক</string>
+    <string name="standard_battery_saver_text">মানক</string>
+    <string name="too_hot_label">Pixel বেছি গৰম হৈছে</string>
+    <string name="wireless_charging_label">তাঁৰৰ অবিহনে চাৰ্জ কৰি থকা হৈছে</string>
+</resources>

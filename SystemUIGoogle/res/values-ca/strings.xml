@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Cerca per veu</string>
+    <string name="accessibility_next_alarm">Pròxima alarma a les %s</string>
+    <string name="accessibility_settings_gear">Configuració de Pixel Stand</string>
+    <string name="accessibility_smartspace_page">Pàgina %1$d de %2$d</string>
+    <string name="adaptive_charging_notify_des">La bateria estarà completament carregada a les %1$s. Es carrega de manera estable per allargar-ne la vida útil.</string>
+    <string name="adaptive_charging_notify_title">La càrrega intel·ligent està activada</string>
+    <string name="adaptive_charging_notify_turn_off_once">Desactiva una vegada</string>
+    <string name="adaptive_charging_time_estimate">"%1$s • Càrrega intel·ligent • S'haurà completat a les %2$s"</string>
+    <string name="assistant_keyboard_icon_label">Teclat</string>
+    <string name="assistant_scrim_label">"S'està escoltant; toca per cancel·lar."</string>
+    <string name="assistant_zero_state_icon_label">"Informació general sobre l'Assistent"</string>
+    <string name="battery_health_notify_learn_more">Més informació</string>
+    <string name="charging_reverse_text">"S'està compartint la bateria"</string>
+    <string name="columbus_bouncer_message">Desbloqueja per completar Toc ràpid</string>
+    <string name="columbus_target_request_dialog_allow">Permet</string>
+    <string name="columbus_target_request_dialog_deny">No permetis</string>
+    <string name="columbus_target_request_dialog_summary">Fes doble toc a la part posterior del telèfon per obrir %1$s. Pots canviar aquesta opció en qualsevol moment a Configuració.</string>
+    <string name="columbus_target_request_dialog_title">Vols permetre que Toc ràpid obri %1$s?</string>
+    <string name="defender_notify_des">"La càrrega s'ha optimitzat per ajudar-te a allargar la vida útil de la bateria"</string>
+    <string name="defender_notify_resume_charge">Carrega completament</string>
+    <string name="defender_notify_title">"S'està protegint la bateria"</string>
+    <string name="defender_post_notify_des">"Per ajudar-te a allargar la vida útil de la bateria, la càrrega s'ha optimitzat des de les %1$s fins a les %2$s"</string>
+    <string name="defender_post_notify_title">"La càrrega s'ha optimitzat"</string>
+    <string name="dock_a11y_action_show_photo_text">Mostra el marc de fotos</string>
+    <string name="dock_alignment_not_charging" product="default">Col·loca bé el telèfon per carregar-lo sense fil</string>
+    <string name="dock_alignment_slow_charging" product="default">Col·loca bé el telèfon per carregar-lo més ràpidament</string>
+    <string name="dock_defender_first_run_des">"La càrrega s'optimitzarà mentre el dispositiu estigui acoblat per ajudar-te a allargar la vida útil de la bateria. Per carregar-la del tot, ves a Configuració."</string>
+    <string name="dock_defender_first_run_settings">Configuració</string>
+    <string name="dock_defender_first_run_title">"S'està protegint la bateria"</string>
+    <string name="dock_photo_preview_text">"S'està iniciant el marc de fotos..."</string>
+    <string name="dock_promo_text">"Llisca cap a l'esquerra per configurar un marc de fotos"</string>
+    <string name="extreme_battery_saver_text">Extrem</string>
+    <string name="extreme_low_battery_notification_text">"El telèfon s'apagarà si no el carregues aviat"</string>
+    <string name="extreme_low_battery_notification_title">Bateria molt baixa</string>
+    <string name="face_reenroll_dialog_confirm">Configura</string>
+    <string name="finder_active">Amb Troba el meu dispositiu, pots localitzar aquest telèfon fins i tot quan estigui apagat</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">Llisca per parlar</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">Més informació</string>
+    <string name="incompatible_charging_notify_des">"La bateria s'està carregant lentament o no s'està carregant. Comprova si el cable i l'adaptador de corrent funcionen amb el teu telèfon."</string>
+    <string name="incompatible_charging_notify_title">"Problema relacionat amb l'accessori de càrrega"</string>
+    <string name="install_app">"Instal·la l'aplicació"</string>
+    <string name="keyguard_indication_trust_unlocked">Desbloquejat per Desbloqueig ampliat</string>
+    <string name="low_battery_label">Bateria baixa</string>
+    <string name="low_battery_notification_text">Queda un %s de bateria</string>
+    <string name="low_battery_notification_title">Vols activar Estalvi de bateria estàndard?</string>
+    <string name="quick_settings_rotation_posture_folded">plegat</string>
+    <string name="quick_settings_rotation_posture_unfolded">desplegat</string>
+    <string name="reverse_charging_device_name_text">Un altre dispositiu Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s està proporcionant la càrrega (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">La funció Compartició de bateria està activada</string>
+    <string name="reverse_charging_title">Compartició de bateria</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Cancel·la</string>
+    <string name="saver_confirmation_dialog_subtitle">Selecciona el mode que vols utilitzar</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Inclou tots els canvis anteriors. També posa en pausa aplicacions no essencials i les seves notificacions.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">"Limita els efectes visuals i l'activitat en segon pla, com ara les actualitzacions d'aplicacions. Activa el tema fosc si aquesta opció encara no està activada."</string>
+    <string name="saver_confirmation_dialog_title">Et donem la benvinguda a Estalvi de bateria</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Estalvi de bateria extrem</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Estalvi de bateria estàndard</string>
+    <string name="saver_notification_dismiss_text">No, gràcies</string>
+    <string name="screen_protector_absent_message">"En desactivar-lo, millora la resposta tàctil quan no s'utilitza un protector de pantalla."</string>
+    <string name="screen_protector_disable_notification">Desactiva la notificació</string>
+    <string name="screen_protector_go_to_settings">Ves a la configuració</string>
+    <string name="screen_protector_got_it">Entesos</string>
+    <string name="screen_protector_mode_title">Mode de protector de pantalla</string>
+    <string name="screen_protector_present_message">"En activar-lo, millora la resposta tàctil quan s'utilitza un protector de pantalla."</string>
+    <string name="selectable_url_description">URL seleccionable</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Canvia</string>
+    <string name="severe_low_battery_dialog_switch_text">"Queda un %s de bateria.
+
+Aquesta acció posarà en pausa totes les aplicacions no essencials i les seves notificacions."</string>
+    <string name="severe_low_battery_dialog_switch_title">Vols canviar a Estalvi de bateria extrem?</string>
+    <string name="severe_low_battery_dialog_text">"Queda un %s de bateria.
+
+Aquesta acció reduirà els efectes visuals i l'activitat en segon pla, i posarà en pausa totes les aplicacions no essencials."</string>
+    <string name="severe_low_battery_dialog_title">Vols activar Estalvi de bateria extrem?</string>
+    <string name="shutdown_progress">"S'està apagant…"</string>
+    <string name="smartspace_flight_qr_code">Codi QR</string>
+    <string name="squeeze_invocation_prompt">Estreny per parlar</string>
+    <string name="standard_battery_saver_text">Estàndard</string>
+    <string name="too_hot_label">El Pixel està massa calent</string>
+    <string name="wireless_charging_label">"S'està carregant sense fil"</string>
+</resources>

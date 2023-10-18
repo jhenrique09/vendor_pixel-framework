@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Recherche vocale</string>
+    <string name="accessibility_next_alarm">Prochaine alarme à %s</string>
+    <string name="accessibility_settings_gear">Paramètres du Pixel Stand</string>
+    <string name="accessibility_smartspace_page">Page %1$d sur %2$d</string>
+    <string name="adaptive_charging_notify_des">La recharge sera terminée à %1$s. Chargement progressif pour prolonger la durée de vie de la batterie.</string>
+    <string name="adaptive_charging_notify_title">La recharge adaptative est activée</string>
+    <string name="adaptive_charging_notify_turn_off_once">Désactiver une fois</string>
+    <string name="adaptive_charging_time_estimate">"%1$s • Recharge adaptative • Batterie chargée d'ici %2$s"</string>
+    <string name="assistant_keyboard_icon_label">Clavier</string>
+    <string name="assistant_scrim_label">Écoute en cours, appuyez pour annuler</string>
+    <string name="assistant_zero_state_icon_label">"Présentation de l'Assistant"</string>
+    <string name="battery_health_notify_learn_more">En savoir plus</string>
+    <string name="charging_reverse_text">Partage de la batterie</string>
+    <string name="columbus_bouncer_message">Déverrouillez pour utiliser Double appui</string>
+    <string name="columbus_target_request_dialog_allow">Autoriser</string>
+    <string name="columbus_target_request_dialog_deny">Ne pas autoriser</string>
+    <string name="columbus_target_request_dialog_summary">Appuyez deux fois sur le dos de votre téléphone pour ouvrir %1$s. Vous pouvez modifier cela à tout moment dans les paramètres.</string>
+    <string name="columbus_target_request_dialog_title">Autoriser le Double appui pour ouvrir %1$s ?</string>
+    <string name="defender_notify_des">La recharge est optimisée pour prolonger la durée de vie de votre batterie</string>
+    <string name="defender_notify_resume_charge">Recharger complètement</string>
+    <string name="defender_notify_title">Protéger votre batterie</string>
+    <string name="defender_post_notify_des">Pour prolonger la durée de vie de votre batterie, la recharge a été optimisée entre %1$s et %2$s</string>
+    <string name="defender_post_notify_title">La recharge a été optimisée</string>
+    <string name="dock_a11y_action_show_photo_text">Afficher le cadre de la photo</string>
+    <string name="dock_alignment_not_charging" product="default">Réalignez le téléphone pour le recharger sans fil</string>
+    <string name="dock_alignment_slow_charging" product="default">Réalignez le téléphone pour une recharge plus rapide</string>
+    <string name="dock_defender_first_run_des">"Pour prolonger la durée de vie de votre batterie, la recharge est optimisée lorsque l'appareil se trouve dans la station d'accueil. Accédez aux paramètres pour le recharger complètement."</string>
+    <string name="dock_defender_first_run_settings">Paramètres</string>
+    <string name="dock_defender_first_run_title">Protéger votre batterie</string>
+    <string name="dock_photo_preview_text">Lancement du Cadre photo…</string>
+    <string name="dock_promo_text">Balayez vers la gauche pour accéder au Cadre photo</string>
+    <string name="extreme_battery_saver_text">Ultra</string>
+    <string name="extreme_low_battery_notification_text">"Votre téléphone va s'éteindre s'il n'est pas bientôt rechargé"</string>
+    <string name="extreme_low_battery_notification_title">Batterie très faible</string>
+    <string name="face_reenroll_dialog_confirm">Configurer</string>
+    <string name="finder_active">"Vous pouvez localiser ce téléphone avec Localiser mon appareil même lorsqu'il est éteint"</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">"Balayez l'écran pour parler"</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">En savoir plus</string>
+    <string name="incompatible_charging_notify_des">"La batterie se recharge lentement ou ne se recharge pas. Vérifiez si le câble et l'adaptateur secteur fonctionnent avec votre téléphone"</string>
+    <string name="incompatible_charging_notify_title">"Problème de recharge de l'accessoire"</string>
+    <string name="install_app">"Installer l'appli"</string>
+    <string name="keyguard_indication_trust_unlocked">Maintenu déverrouillé par Extend Unlock</string>
+    <string name="low_battery_label">Batterie faible</string>
+    <string name="low_battery_notification_text">%s de batterie restante</string>
+    <string name="low_battery_notification_title">"Activer l'économiseur de batterie standard ?"</string>
+    <string name="quick_settings_rotation_posture_folded">plié</string>
+    <string name="quick_settings_rotation_posture_unfolded">déplié</string>
+    <string name="reverse_charging_device_name_text">Autre Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s fournit une recharge (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Le partage de batterie est activé</string>
+    <string name="reverse_charging_title">Partage de batterie</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Annuler</string>
+    <string name="saver_confirmation_dialog_subtitle">Sélectionnez le mode à utiliser</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Inclut tous les changements ci-dessus. Suspend aussi les applis non essentielles et leurs notifications.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">"Limite les effets visuels et l'activité en arrière-plan, comme les mises à jour d'applis. Active le thème sombre, si ce n'est pas déjà fait."</string>
+    <string name="saver_confirmation_dialog_title">"Bienvenue dans l'économiseur de batterie"</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Ultra économiseur de batterie</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Économiseur de batterie standard</string>
+    <string name="saver_notification_dismiss_text">Non, merci</string>
+    <string name="screen_protector_absent_message">"Désactiver ce mode améliore la sensibilité tactile quand la protection d'écran n'est pas utilisée."</string>
+    <string name="screen_protector_disable_notification">Désactiver la notification</string>
+    <string name="screen_protector_go_to_settings">Accéder aux paramètres</string>
+    <string name="screen_protector_got_it">OK</string>
+    <string name="screen_protector_mode_title">"Mode Protection d'écran"</string>
+    <string name="screen_protector_present_message">"Activer ce mode améliore la sensibilité tactile quand la protection d'écran est utilisée."</string>
+    <string name="selectable_url_description">URL sélectionnable</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Changer</string>
+    <string name="severe_low_battery_dialog_switch_text">"%s de batterie restante
+
+Cela mettra en pause toutes les applis non essentielles et leurs notifications"</string>
+    <string name="severe_low_battery_dialog_switch_title">Passer en mode Ultra économiseur de batterie ?</string>
+    <string name="severe_low_battery_dialog_text">"%s de batterie restante
+
+Cela réduira les effets visuels et l'activité en arrière-plan, et mettra en pause toutes les applis non essentielles"</string>
+    <string name="severe_low_battery_dialog_title">"Activer l'ultra économiseur de batterie ?"</string>
+    <string name="shutdown_progress">Arrêt…</string>
+    <string name="smartspace_flight_qr_code">Code QR</string>
+    <string name="squeeze_invocation_prompt">Pressez pour parler</string>
+    <string name="standard_battery_saver_text">Standard</string>
+    <string name="too_hot_label">Pixel trop chaud</string>
+    <string name="wireless_charging_label">En charge sans fil</string>
+</resources>

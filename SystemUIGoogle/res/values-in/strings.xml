@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Penelusuran suara</string>
+    <string name="accessibility_next_alarm">Alarm berikutnya pukul %s</string>
+    <string name="accessibility_settings_gear">Setelan Pixel Stand</string>
+    <string name="accessibility_smartspace_page">Halaman %1$d dari %2$d</string>
+    <string name="adaptive_charging_notify_des">Baterai penuh pada %1$s. Isi daya perlahan untuk memperpanjang masa pakai baterai.</string>
+    <string name="adaptive_charging_notify_title">Pengisian Daya Adaptif aktif</string>
+    <string name="adaptive_charging_notify_turn_off_once">Nonaktifkan sekali</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Pengisian Daya Adaptif • Penuh pada %2$s</string>
+    <string name="assistant_keyboard_icon_label">Keyboard</string>
+    <string name="assistant_scrim_label">Sedang mendengarkan, ketuk untuk membatalkan</string>
+    <string name="assistant_zero_state_icon_label">Ringkasan Asisten</string>
+    <string name="battery_health_notify_learn_more">Pelajari lebih lanjut</string>
+    <string name="charging_reverse_text">Berbagi baterai</string>
+    <string name="columbus_bouncer_message">Buka kunci untuk menyelesaikan Ketuk Cepat</string>
+    <string name="columbus_target_request_dialog_allow">Izinkan</string>
+    <string name="columbus_target_request_dialog_deny">Jangan izinkan</string>
+    <string name="columbus_target_request_dialog_summary">Ketuk bagian belakang ponsel dua kali untuk membuka %1$s. Anda dapat mengubahnya kapan saja di Setelan.</string>
+    <string name="columbus_target_request_dialog_title">Izinkan Ketuk Cepat untuk membuka %1$s?</string>
+    <string name="defender_notify_des">Pengisian daya dioptimalkan untuk membantu memperpanjang masa pakai baterai</string>
+    <string name="defender_notify_resume_charge">Isi daya sampai penuh</string>
+    <string name="defender_notify_title">Melindungi baterai Anda</string>
+    <string name="defender_post_notify_des">Untuk membantu memperpanjang masa pakai baterai, pengisian daya dioptimalkan dari %1$s sampai %2$s</string>
+    <string name="defender_post_notify_title">Pengisian daya dioptimalkan</string>
+    <string name="dock_a11y_action_show_photo_text">Tampilkan bingkai foto</string>
+    <string name="dock_alignment_not_charging" product="default">Sejajarkan ulang ponsel untuk mengisi daya secara nirkabel</string>
+    <string name="dock_alignment_slow_charging" product="default">Sejajarkan ulang ponsel untuk mengisi daya lebih cepat</string>
+    <string name="dock_defender_first_run_des">Pengisian daya dioptimalkan saat dipasang ke dok agar baterai lebih awet. Buka Setelan untuk mengisi daya sampai penuh.</string>
+    <string name="dock_defender_first_run_settings">Setelan</string>
+    <string name="dock_defender_first_run_title">Melindungi baterai Anda</string>
+    <string name="dock_photo_preview_text">Bingkai foto dimulai...</string>
+    <string name="dock_promo_text">Geser ke kiri untuk bingkai foto</string>
+    <string name="extreme_battery_saver_text">Ekstrem</string>
+    <string name="extreme_low_battery_notification_text">Ponsel Anda akan mati jika tidak segera diisi daya</string>
+    <string name="extreme_low_battery_notification_title">Baterai sangat lemah</string>
+    <string name="face_reenroll_dialog_confirm">Siapkan</string>
+    <string name="face_reenroll_failure_dialog_content">Tidak dapat menyiapkan face unlock. Buka Setelan untuk mencoba lagi.</string>
+    <string name="finder_active">Anda dapat menemukan lokasi ponsel ini dengan Temukan Perangkat Saya meskipun ponsel dimatikan</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">Geser untuk bicara</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">Pelajari lebih lanjut</string>
+    <string name="incompatible_charging_notify_des">Pengisian daya baterai lambat atau tidak mau mengisi daya sama sekali. Periksa apakah kabel dan adaptor daya berfungsi dengan ponsel Anda</string>
+    <string name="incompatible_charging_notify_title">Masalah dengan aksesori pengisian daya</string>
+    <string name="install_app">Instal aplikasi</string>
+    <string name="keyguard_indication_trust_unlocked">Tetap tidak dikunci oleh Extend Unlock</string>
+    <string name="low_battery_label">Daya baterai lemah</string>
+    <string name="low_battery_notification_text">Daya baterai tersisa %s</string>
+    <string name="low_battery_notification_title">Aktifkan Penghemat Baterai Standar?</string>
+    <string name="quick_settings_rotation_posture_folded">dilipat</string>
+    <string name="quick_settings_rotation_posture_unfolded">dibentangkan</string>
+    <string name="reverse_charging_device_name_text">Pixel Lain</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s menyediakan pengisian daya (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Berbagi Baterai aktif</string>
+    <string name="reverse_charging_title">Berbagi Baterai</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Batalkan</string>
+    <string name="saver_confirmation_dialog_subtitle">Pilih mode untuk digunakan</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Mencakup semua perubahan yang tercantum di atas. Juga menjeda aplikasi yang tidak penting dan notifikasinya.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Membatasi efek visual dan aktivitas latar belakang, seperti update aplikasi. Mengaktifkan Tema gelap, jika belum diaktifkan.</string>
+    <string name="saver_confirmation_dialog_title">Selamat datang di Penghemat Baterai</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Penghemat Baterai Super</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Penghemat Baterai Standar</string>
+    <string name="saver_notification_dismiss_text">Lain kali</string>
+    <string name="screen_protector_absent_message">Menonaktifkan mode pelindung layar meningkatkan sensitivitas sentuhan saat pelindung layar tidak digunakan.</string>
+    <string name="screen_protector_disable_notification">Nonaktifkan notifikasi</string>
+    <string name="screen_protector_go_to_settings">Buka setelan</string>
+    <string name="screen_protector_got_it">Oke</string>
+    <string name="screen_protector_mode_title">Mode pelindung layar</string>
+    <string name="screen_protector_present_message">Mengaktifkan mode pelindung layar meningkatkan sensitivitas sentuhan saat menggunakan pelindung layar.</string>
+    <string name="selectable_url_description">URL yang dapat dipilih</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Ubah</string>
+    <string name="severe_low_battery_dialog_switch_text">"Daya baterai tersisa %s
+
+Semua aplikasi tidak penting dan notifikasinya akan dijeda"</string>
+    <string name="severe_low_battery_dialog_switch_title">Beralih ke Penghemat Baterai Super?</string>
+    <string name="severe_low_battery_dialog_text">"Daya baterai tersisa %s
+
+Efek visual dan aktivitas latar belakang akan dikurangi, semua aplikasi tidak penting akan dijeda"</string>
+    <string name="severe_low_battery_dialog_title">Aktifkan Penghemat Baterai Super?</string>
+    <string name="shutdown_progress">Sedang mematikan…</string>
+    <string name="smartspace_flight_qr_code">Kode QR</string>
+    <string name="squeeze_invocation_prompt">Tekan kedua sisi secara bersamaan untuk berbicara</string>
+    <string name="standard_battery_saver_text">Standar</string>
+    <string name="too_hot_label">Pixel terlalu panas</string>
+    <string name="wireless_charging_label">Mengisi daya secara nirkabel</string>
+</resources>

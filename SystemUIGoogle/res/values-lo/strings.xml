@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="accessibility_next_alarm">ໂມງປຸກຕໍ່ໄປແມ່ນ %s</string>
+    <string name="accessibility_settings_gear">ການຕັ້ງຄ່າ Pixel Stand</string>
+    <string name="accessibility_smartspace_page">ໜ້າທີ %1$d ຈາກທັງໝົດ %2$d</string>
+    <string name="adaptive_charging_notify_des">ແບັດເຕີຣີຈະເຕັມພາຍໃນ %1$s. ກຳລັງສາກໄຟຢ່າງຕໍ່ເນື່ອງເພື່ອຍືດອາຍຸແບັດເຕີຣີ.</string>
+    <string name="adaptive_charging_notify_title">ເປີດໃຊ້ການສາກໄຟແບບປັບອັດຕະໂນມັດແລ້ວ</string>
+    <string name="adaptive_charging_notify_turn_off_once">ປິດເທື່ອດຽວ</string>
+    <string name="adaptive_charging_time_estimate">%1$s • ການສາກໄຟແບບປັບອັດຕະໂນມັດ • ຈະເຕັມພາຍໃນ %2$s</string>
+    <string name="assistant_keyboard_icon_label">ແປ້ນພິມ</string>
+    <string name="assistant_scrim_label">ກຳລັງຟັງ, ແຕະເພື່ອຍົກເລີກ</string>
+    <string name="assistant_zero_state_icon_label">ສະຫຼຸບຜູ້ຊ່ວຍ</string>
+    <string name="battery_health_notify_learn_more">ສຶກສາເພີ່ມເຕີມ</string>
+    <string name="charging_reverse_text">ກຳລັງແບ່ງປັນແບັດເຕີຣີ</string>
+    <string name="columbus_bouncer_message">ປົດລັອກເພື່ອໃຊ້ການແຕະດ່ວນໃຫ້ສຳເລັດ</string>
+    <string name="columbus_target_request_dialog_allow">ອະນຸຍາດ</string>
+    <string name="columbus_target_request_dialog_deny">ບໍ່ອະນຸຍາດ</string>
+    <string name="columbus_target_request_dialog_summary">ແຕະໃສ່ທາງຫຼັງໂທລະສັບຂອງທ່ານສອງເທື່ອເພື່ອເປີດ %1$s. ທ່ານສາມາດປ່ຽນສິ່ງນີ້ຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ.</string>
+    <string name="columbus_target_request_dialog_title">ອະນຸຍາດການແຕະດ່ວນໃຫ້ເປີດ %1$s ບໍ?</string>
+    <string name="defender_notify_des">ການສາກຖືກປັບໃຫ້ເໝາະສົມເພື່ອຊ່ວຍຂະຫຍາຍອາຍຸການນຳໃຊ້ແບັດເຕີຣີຂອງທ່ານ</string>
+    <string name="defender_notify_resume_charge">ສາກໄຟຈົນເຕັມ</string>
+    <string name="defender_notify_title">ການປົກປ້ອງແບັດເຕີຣີຂອງທ່ານ</string>
+    <string name="defender_post_notify_des">ເພື່ອຊ່ວຍຂະຫຍາຍອາຍຸການນຳໃຊ້ແບັດເຕີຣີ, ການສາກຖືກປັບໃຫ້ເໝາະສົມຈາກ %1$s ເປັນ %2$s</string>
+    <string name="defender_post_notify_title">ການສາກຖືກປັບໃຫ້ເໝາະສົມແລ້ວ</string>
+    <string name="dock_a11y_action_show_photo_text">ສະແດງຂອບຮູບ</string>
+    <string name="dock_alignment_not_charging" product="default">ຈັດວາງໂທລະສັບໃໝ່ເພື່ອສາກແບບໄຮ້ສາຍ</string>
+    <string name="dock_alignment_slow_charging" product="default">ຈັດວາງໂທລະສັບຄືນໃໝ່ເພື່ອສາກໃຫ້ໄວຂຶ້ນ</string>
+    <string name="dock_defender_first_run_des">ການສາກຖືກປັບໃຫ້ເໝາະສົມໃນຂະນະທີ່ເຊື່ອມຕໍ່ກັບແທ່ນສາກເພື່ອຊ່ວຍຂະຫຍາຍອາຍຸການນຳໃຊ້ແບັດເຕີຣີຂອງທ່ານ. ເຂົ້າໄປການຕັ້ງຄ່າເພື່ອສາກໃຫ້ເຕັມ.</string>
+    <string name="dock_defender_first_run_settings">ການຕັ້ງຄ່າ</string>
+    <string name="dock_defender_first_run_title">ການປົກປ້ອງແບັດເຕີຣີຂອງທ່ານ</string>
+    <string name="dock_photo_preview_text">ກຳລັງເລີ່ມຂອບຮູບ...</string>
+    <string name="dock_promo_text">ປັດຊ້າຍສຳລັບເບິ່ງຂອບຮູບ</string>
+    <string name="extreme_battery_saver_text">ສຸດຂີດ</string>
+    <string name="extreme_low_battery_notification_text">ໂທລະສັບຂອງທ່ານຈະປິດເຄື່ອງຫາກບໍ່ໄດ້ສາກໃນໄວໆນີ້</string>
+    <string name="extreme_low_battery_notification_title">ແບັດເຕີຣີຕໍ່າຫຼາຍ</string>
+    <string name="face_reenroll_dialog_confirm">ຕັ້ງຄ່າ</string>
+    <string name="face_reenroll_failure_dialog_content">ບໍ່ສາມາດຕັ້ງຄ່າການປົດລັອກດ້ວຍໜ້າໄດ້. ກະລຸນາໄປທີ່ການຕັ້ງຄ່າເພື່ອລອງໃໝ່.</string>
+    <string name="finder_active">ທ່ານສາມາດຊອກຫາສະຖານທີ່ຂອງໂທລະສັບເຄື່ອງນີ້ໄດ້ດ້ວຍແອັບຊອກຫາອຸປະກອນຂອງຂ້ອຍເຖິງແມ່ນວ່າຈະປິດເຄື່ອງຢູ່ກໍຕາມ</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">ປັດເພື່ອລົມ</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">ສຶກສາເພີ່ມເຕີມ</string>
+    <string name="incompatible_charging_notify_des">ແບັດເຕີຣີສາກຊ້າ ຫຼື ບໍ່ສາກ. ກວດສອບວ່າສາຍ ແລະ ຕົວແປງໄຟຟ້າໃຊ້ກັບໂທລະສັບຂອງທ່ານໄດ້ຫຼືບໍ່</string>
+    <string name="incompatible_charging_notify_title">ບັນຫາກັບອຸປະກອນເສີມໃນການສາກ</string>
+    <string name="install_app">ຕິດຕັ້ງແອັບ</string>
+    <string name="keyguard_indication_trust_unlocked">ສືບຕໍ່ປົດລັອກໄວ້ດ້ວຍການປົດລັອກດົນຂຶ້ນ</string>
+    <string name="low_battery_label">ແບັດເຕີຣີເຫຼືອໜ້ອຍ</string>
+    <string name="low_battery_notification_text">ເຫຼືອແບັດເຕີຣີ %s</string>
+    <string name="low_battery_notification_title">ເປີດໃຊ້ຕົວປະຢັດແບັດເຕີຣີມາດຕະຖານບໍ?</string>
+    <string name="quick_settings_rotation_posture_folded">ພັບແລ້ວ</string>
+    <string name="quick_settings_rotation_posture_unfolded">ກາງແລ້ວ</string>
+    <string name="reverse_charging_device_name_text">Pixel ອື່ນ</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s ກຳລັງຈ່າຍໄຟ (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ເປີດໃຊ້ການແບ່ງປັນແບັດເຕີຣີແລ້ວ</string>
+    <string name="reverse_charging_title">ການແບ່ງປັນແບັດເຕີຣີ</string>
+    <string name="saver_confirmation_dialog_dismiss_text">ຍົກເລີກ</string>
+    <string name="saver_confirmation_dialog_subtitle">ເລືອກໂໝດເພື່ອໃຊ້</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">ຮວມທັງການປ່ຽນແປງທັງໝົດຕາມລາຍຊື່ດ້ານເທິງ. ນອກຈາກນັ້ນຍັງຢຸດແອັບທີ່ບໍ່ສຳຄັນ ແລະ ການແຈ້ງເຕືອນຂອງພວກມັນໄວ້ຊົ່ວຄາວນຳອີກ.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">ຈຳກັດເອັບເຟັກທາງພາບ ແລະ ການເຄື່ອນໄຫວໃນພື້ນຫຼັງເຊັ່ນ: ການອັບເດດແອັບ. ເປີດຮູບແບບສີສັນມືດ, ຖ້າຫາກບໍ່ທັນໄດ້ເປີດ.</string>
+    <string name="saver_confirmation_dialog_title">ຍິນດີຕ້ອນຮັບສູ່ຕົວປະຢັດແບັດເຕີຣີ</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">ຕົວປະຢັດແບັດເຕີຣີຂັ້ນສຸດຂີດ</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">ຕົວປະຢັດແບັດເຕີຣີມາດຕະຖານ</string>
+    <string name="saver_notification_dismiss_text">ບໍ່, ຂອບໃຈ</string>
+    <string name="screen_protector_absent_message">ການປິດການນຳໃຊ້ໂໝດຕົວປົກປ້ອງໜ້າຈໍປັບປຸງການສຳຜັດເມື່ອບໍ່ໄດ້ໃຊ້ຕົວປົກປ້ອງໜ້າຈໍ.</string>
+    <string name="screen_protector_disable_notification">ປິດໃຊ້ການແຈ້ງເຕືອນ</string>
+    <string name="screen_protector_go_to_settings">ເຂົ້າໄປການຕັ້ງຄ່າ</string>
+    <string name="screen_protector_got_it">ເຂົ້າໃຈແລ້ວ</string>
+    <string name="screen_protector_mode_title">ໂໝດຕົວປົກປ້ອງໜ້າຈໍ</string>
+    <string name="screen_protector_present_message">ການເປີດການນຳໃຊ້ໂໝດຕົວປົກປ້ອງໜ້າຈໍປັບປຸງການສຳຜັດເມື່ອໃຊ້ຕົວປົກປ້ອງໜ້າຈໍ.</string>
+    <string name="selectable_url_description">URL ທີ່ເລືອກໄດ້</string>
+    <string name="severe_low_battery_dialog_switch_action_text">ສະຫຼັບ</string>
+    <string name="severe_low_battery_dialog_switch_text">"ເຫຼືອແບັດເຕີຣີ %s
+
+ລະບົບຈະຢຸດແອັບທີ່ບໍ່ສຳຄັນທັງໝົດ ແລະ ການແຈ້ງເຕືອນຂອງພວກມັນໄວ້ຊົ່ວຄາວ"</string>
+    <string name="severe_low_battery_dialog_switch_title">ສະຫຼັບໄປຫາຕົວປະຢັດແບັດເຕີຣີຂັ້ນສຸດຂີດບໍ?</string>
+    <string name="severe_low_battery_dialog_text">"ເຫຼືອແບັດເຕີຣີ %s.
+
+ລະບົບຈະຫຼຸດເອັບເຟັກພາບ ແລະ ກິດຈະກຳໃນພື້ນຫຼັງ ພ້ອມທັງຢຸດແອັບທີ່ບໍ່ສຳຄັນທັງໝົດໄວ້ຊົ່ວຄາວ"</string>
+    <string name="severe_low_battery_dialog_title">ເປີດໃຊ້ຕົວປະຢັດແບັດເຕີຣີຂັ້ນສຸດຂີດບໍ?</string>
+    <string name="shutdown_progress">ກຳລັງປິດເຄື່ອງ…</string>
+    <string name="smartspace_flight_qr_code">ລະຫັດ QR</string>
+    <string name="squeeze_invocation_prompt">ບີບເພື່ອລົມ</string>
+    <string name="standard_battery_saver_text">ມາດຕະຖານ</string>
+    <string name="too_hot_label">Pixel ຮ້ອນເກີນໄປ</string>
+    <string name="wireless_charging_label">ກຳ​ລັງ​ສາກ​ໄຮ້​ສາຍ</string>
+</resources>

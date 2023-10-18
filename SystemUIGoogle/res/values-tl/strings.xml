@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Paghahanap gamit ang boses</string>
+    <string name="accessibility_next_alarm">Ang susunod na alarm ay sa %s</string>
+    <string name="accessibility_settings_gear">Mga setting ng Pixel Stand</string>
+    <string name="accessibility_smartspace_page">Page %1$d ng %2$d</string>
+    <string name="adaptive_charging_notify_des">Mapupuno ang baterya sa loob ng %1$s. Nagcha-charge nang mabagal para pahabain ang tagal ng baterya.</string>
+    <string name="adaptive_charging_notify_title">Naka-on ang Adaptive na Pag-charge</string>
+    <string name="adaptive_charging_notify_turn_off_once">I-off nang isang beses</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Adaptive na Pag-charge • mapupuno bago mag-%2$s</string>
+    <string name="assistant_keyboard_icon_label">Keyboard</string>
+    <string name="assistant_scrim_label">Nakikinig, i-tap para kanselahin</string>
+    <string name="assistant_zero_state_icon_label">Pangkalahatang-ideya ng Assistant</string>
+    <string name="battery_health_notify_learn_more">Matuto pa</string>
+    <string name="charging_reverse_text">Nagbabahagi ng baterya</string>
+    <string name="columbus_bouncer_message">I-unlock para tapusin ang Quick Tap</string>
+    <string name="columbus_target_request_dialog_allow">Payagan</string>
+    <string name="columbus_target_request_dialog_deny">Huwag payagan</string>
+    <string name="columbus_target_request_dialog_summary">I-tap ang likod ng iyong telepono nang dalawang beses para buksan ang %1$s. Puwede mo itong baguhin anumang oras sa Mga Setting.</string>
+    <string name="columbus_target_request_dialog_title">Payagan ang Quick Tap na buksan ang %1$s?</string>
+    <string name="defender_notify_des">Naka-optimize ang pag-charge para tulungang pahabain ang lifespan ng iyong baterya</string>
+    <string name="defender_notify_resume_charge">I-charge hanggang mapuno</string>
+    <string name="defender_notify_title">Pinoprotektahan ang iyong baterya</string>
+    <string name="defender_post_notify_des">Para tulungang pahabain ang lifespan ng baterya, na-optimize ang pag-charge mula %1$s hanggang %2$s</string>
+    <string name="defender_post_notify_title">Na-optimize ang pag-charge</string>
+    <string name="dock_a11y_action_show_photo_text">Ipakita ang frame ng larawan</string>
+    <string name="dock_alignment_not_charging" product="default">I-align ulit ang telepono para i-charge nang wireless</string>
+    <string name="dock_alignment_slow_charging" product="default">I-align ulit ang telepono para sa mas mabilis na pag-charge</string>
+    <string name="dock_defender_first_run_des">Naka-optimize ang pag-charge habang naka-dock para tulungang pahabain ang lifespan ng iyong baterya. Pumunta sa Mga Setting para ganap na mag-charge.</string>
+    <string name="dock_defender_first_run_settings">Mga Setting</string>
+    <string name="dock_defender_first_run_title">Pinoprotektahan ang iyong baterya</string>
+    <string name="dock_photo_preview_text">Nagsisimula ang photo frame...</string>
+    <string name="dock_promo_text">Mag-swipe pakaliwa para sa photo frame</string>
+    <string name="extreme_battery_saver_text">Extreme</string>
+    <string name="extreme_low_battery_notification_text">Magsa-shut down ang iyong telepono kung hindi ito icha-charge sa lalong madaling panahon</string>
+    <string name="extreme_low_battery_notification_title">Napakahinang baterya</string>
+    <string name="face_reenroll_dialog_confirm">I-set up</string>
+    <string name="finder_active">Puwede mong hanapin ang teleponong ito gamit ang Hanapin ang Aking Device kahit kapag naka-off ito</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">I-swipe para makapagsalita</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">Matuto pa</string>
+    <string name="incompatible_charging_notify_des">Mabagal na nagcha-charge o hindi nagcha-charge ang baterya. Tingnan kung gumagana sa iyong telepono ang cable at power adapter</string>
+    <string name="incompatible_charging_notify_title">Isyu sa pag-charge ng accessory</string>
+    <string name="install_app">I-install ang app</string>
+    <string name="keyguard_indication_trust_unlocked">Ina-unlock ng Extend Unlock</string>
+    <string name="low_battery_label">Mahinang baterya</string>
+    <string name="low_battery_notification_text">%s baterya na lang</string>
+    <string name="low_battery_notification_title">I-on ang Karaniwang Pantipid ng Baterya?</string>
+    <string name="quick_settings_rotation_posture_folded">nakatupi</string>
+    <string name="quick_settings_rotation_posture_unfolded">hindi nakatupi</string>
+    <string name="reverse_charging_device_name_text">Kabilang Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">Nagbibigay ng charge ang %1$s (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Naka-on ang Battery Share</string>
+    <string name="reverse_charging_title">Battery Share</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Kanselahin</string>
+    <string name="saver_confirmation_dialog_subtitle">Piliin ang gagamiting mode</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Kasama ang lahat ng pagbabagong nakalista sa itaas. Pino-pause din ang hindi mahahalagang app at mga notification ng mga ito.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Nililimitahan ang mga visual effect at aktibidad sa background, tulad ng mga update sa app. Io-on ang Madilim na tema, kung hindi pa ito naka-on.</string>
+    <string name="saver_confirmation_dialog_title">Welcome sa Battery Saver</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Max na Pantipid ng Baterya</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Karaniwang Pantipid ng Baterya</string>
+    <string name="saver_notification_dismiss_text">Salamat na lang</string>
+    <string name="screen_protector_absent_message">Kapag na-disable ang screen protector mode, mas mapapahusay ang touch kapag hindi gumagamit ng screen protector.</string>
+    <string name="screen_protector_disable_notification">I-disable ang notification</string>
+    <string name="screen_protector_go_to_settings">Pumunta sa mga setting</string>
+    <string name="screen_protector_got_it">OK</string>
+    <string name="screen_protector_mode_title">Screen protector mode</string>
+    <string name="screen_protector_present_message">Kapag na-enable ang screen protector mode, mas mapapahusay ang touch kapag gumagamit ng screen protector.</string>
+    <string name="selectable_url_description">Napipiling URL</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Lumipat</string>
+    <string name="severe_low_battery_dialog_switch_text">"%s baterya na lang ang natitira
+
+Ipo-pause nito ang lahat ng hindi mahalagang app at ang mga notification ng mga ito"</string>
+    <string name="severe_low_battery_dialog_switch_title">Lumipat sa Max na Pantipid ng Baterya?</string>
+    <string name="severe_low_battery_dialog_text">"%s baterya na lang ang natitira
+
+Babawasan nito ang mga visual effect at aktibidad sa background, at ipo-pause nito ang lahat ng hindi mahalagang app"</string>
+    <string name="severe_low_battery_dialog_title">I-on ang Max na Pantipid ng Baterya?</string>
+    <string name="shutdown_progress">Nagsa-shut down…</string>
+    <string name="smartspace_flight_qr_code">QR code</string>
+    <string name="squeeze_invocation_prompt">I-squeeze para magsalita</string>
+    <string name="standard_battery_saver_text">Standard</string>
+    <string name="too_hot_label">Masyadong mainit ang pixel</string>
+    <string name="wireless_charging_label">Wireless na nagcha-charge</string>
+</resources>

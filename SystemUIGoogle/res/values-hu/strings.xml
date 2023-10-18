@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Hangalapú keresés</string>
+    <string name="accessibility_next_alarm">Következő ébresztés időpontja: %s</string>
+    <string name="accessibility_settings_gear">Pixel Stand beállításai</string>
+    <string name="accessibility_smartspace_page">%1$d. oldal, összesen: %2$d oldal</string>
+    <string name="adaptive_charging_notify_des">A teljes töltöttséget ekkor éri el az akkumulátor: %1$s. Folyamatos töltés az akkumulátor élettartamának megőrzése érdekében.</string>
+    <string name="adaptive_charging_notify_title">Az adaptív töltés be van kapcsolva</string>
+    <string name="adaptive_charging_notify_turn_off_once">Kikapcsolás egyszer</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Adaptív töltés • Teljes töltöttség ekkorra: %2$s</string>
+    <string name="assistant_keyboard_icon_label">Billentyűzet</string>
+    <string name="assistant_scrim_label">Figyelek. Koppintson a megszakításhoz.</string>
+    <string name="assistant_zero_state_icon_label">A Segéd áttekintése</string>
+    <string name="battery_health_notify_learn_more">További információ</string>
+    <string name="charging_reverse_text">Akkumulátor megosztása</string>
+    <string name="columbus_bouncer_message">Oldja fel a zárolást a Gyors koppintás művelet befejezéséhez</string>
+    <string name="columbus_target_request_dialog_allow">Engedélyezés</string>
+    <string name="columbus_target_request_dialog_deny">Tiltás</string>
+    <string name="columbus_target_request_dialog_summary">Koppintson kétszer a telefonja hátoldalán a(z) %1$s megnyitásához. A Beállításokban ezt bármikor módosíthatja.</string>
+    <string name="columbus_target_request_dialog_title">Engedélyezi, hogy a Gyors koppintás megnyissa a következőt: %1$s?</string>
+    <string name="defender_notify_des">Az akkumulátor élettartamának növelése érdekében optimalizálva van a töltés</string>
+    <string name="defender_notify_resume_charge">Teljes feltöltés</string>
+    <string name="defender_notify_title">Az akkumulátor védelme</string>
+    <string name="defender_post_notify_des">Az akkumulátor élettartamának növelése érdekében optimalizálva volt a töltés %1$s és %2$s között</string>
+    <string name="defender_post_notify_title">Optimalizálva volt a töltés</string>
+    <string name="dock_a11y_action_show_photo_text">Fényképkeret megjelenítése</string>
+    <string name="dock_alignment_not_charging" product="default">Igazítsa a helyére a telefont a vezeték nélküli töltéshez</string>
+    <string name="dock_alignment_slow_charging" product="default">Igazítsa a helyére a telefont a gyorsabb töltéshez</string>
+    <string name="dock_defender_first_run_des">Az akkumulátor élettartamának növelése érdekében dokkolás közben optimalizálva van a töltés. A teljes feltöltéshez lépjen a Beállításokba.</string>
+    <string name="dock_defender_first_run_settings">Beállítások</string>
+    <string name="dock_defender_first_run_title">Az akkumulátor védelme</string>
+    <string name="dock_photo_preview_text">Fényképkeret indítása…</string>
+    <string name="dock_promo_text">Fényképkeret használatához csúsztasson balra</string>
+    <string name="extreme_battery_saver_text">Extrém</string>
+    <string name="extreme_low_battery_notification_text">Telefonja hamarosan kikapcsol, ha nem tölti fel</string>
+    <string name="extreme_low_battery_notification_title">Mindjárt lemerül</string>
+    <string name="face_reenroll_dialog_confirm">Beállítás</string>
+    <string name="finder_active">A Készülékkereső segítségével akár a kikapcsolt telefon helyét is meghatározhatja.</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">Csúsztassa el a beszédhez</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">További információ</string>
+    <string name="incompatible_charging_notify_des">Az akkumulátor lassan vagy nem töltődik. Ellenőrizze, hogy a kábel és a tápcsatlakozó használható-e a telefonjával.</string>
+    <string name="incompatible_charging_notify_title">Probléma van a töltőtartozékkal</string>
+    <string name="install_app">Alkalmazás telepítése</string>
+    <string name="keyguard_indication_trust_unlocked">Feloldva marad a Tartós feloldással</string>
+    <string name="low_battery_label">Alacsony töltöttség</string>
+    <string name="low_battery_notification_text">Az akkumulátor töltöttségi szintje: %s.</string>
+    <string name="low_battery_notification_title">Bekapcsolja a Normál akkumulátorkímélő módot?</string>
+    <string name="quick_settings_rotation_posture_folded">összehajtva</string>
+    <string name="quick_settings_rotation_posture_unfolded">kihajtva</string>
+    <string name="reverse_charging_device_name_text">Másik Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">A töltést biztosítja: %1$s (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Az akkumumegosztás be van kapcsolva</string>
+    <string name="reverse_charging_title">Akkumegosztás</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Mégse</string>
+    <string name="saver_confirmation_dialog_subtitle">Válassza ki a használni kívánt üzemmódot</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Az összes fenti módosítást tartalmazza. Ezek mellett nem alapvető alkalmazásokat és azok értesítéseit is szünetelteti.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Korlátozza a vizuális effekteket és a háttértevékenységeket (pl. az alkalmazásfrissítéseket). Bekapcsolja a Sötét témát, ha még nem aktív.</string>
+    <string name="saver_confirmation_dialog_title">Üdvözöljük az Akkumulátorkímélő módban</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Extrém akkumulátorkímélő mód</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Normál akkumulátorkímélő mód</string>
+    <string name="saver_notification_dismiss_text">Köszönöm, nem</string>
+    <string name="screen_protector_absent_message">A kijelzővédó mód kikapcsolása javítja az érintésérzékelést, amikor nem használ kijelzővédőt.</string>
+    <string name="screen_protector_disable_notification">Értesítések kikapcsolása</string>
+    <string name="screen_protector_go_to_settings">Ugrás a beállításokhoz</string>
+    <string name="screen_protector_got_it">Értem</string>
+    <string name="screen_protector_mode_title">Kijelzővédő mód</string>
+    <string name="screen_protector_present_message">A kijelzővédó mód bekapcsolása javítja az érintésérzékelést, amikor kijelzővédőt használ.</string>
+    <string name="selectable_url_description">Kijelölhető URL</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Váltás</string>
+    <string name="severe_low_battery_dialog_switch_text">"Az akkumulátor töltöttségi szintje: %s
+
+Ez szüneteltet minden nem alapvető alkalmazást és az ilyen alkalmazások értesítéseit."</string>
+    <string name="severe_low_battery_dialog_switch_title">Átvált az Extrém akkumulátorkímélő módra?</string>
+    <string name="severe_low_battery_dialog_text">"Az akkumulátor töltöttségi szintje: %s
+
+Ez korlátozza a vizuális effekteket és a háttértevékenységeket, és szüneteltet minden nem alapvető alkalmazást."</string>
+    <string name="severe_low_battery_dialog_title">Bekapcsolja az Extrém akkumulátorkímélő módot?</string>
+    <string name="shutdown_progress">Leállítás…</string>
+    <string name="smartspace_flight_qr_code">QR-kód</string>
+    <string name="squeeze_invocation_prompt">Nyomja össze a beszédhez</string>
+    <string name="standard_battery_saver_text">Normál</string>
+    <string name="too_hot_label">A Pixel telefon túl forró</string>
+    <string name="wireless_charging_label">Vezeték nélküli töltés</string>
+</resources>

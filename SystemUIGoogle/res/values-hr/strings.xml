@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Glasovno pretraživanje</string>
+    <string name="accessibility_next_alarm">Sljedeći alarm u %s</string>
+    <string name="accessibility_settings_gear">Postavke za Pixel Stand</string>
+    <string name="accessibility_smartspace_page">Stranica %1$d od %2$d</string>
+    <string name="adaptive_charging_notify_des">Baterija će biti puna za %1$s. Kontinuirano punjenje za produljenje vijeka trajanja baterije.</string>
+    <string name="adaptive_charging_notify_title">Uključeno je adaptivno punjenje</string>
+    <string name="adaptive_charging_notify_turn_off_once">Isključi jednom</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Adaptivno punjenje • Puno do %2$s</string>
+    <string name="assistant_keyboard_icon_label">Tipkovnica</string>
+    <string name="assistant_scrim_label">Slušanje, dodirnite da biste ga otkazali</string>
+    <string name="assistant_zero_state_icon_label">Pregled Asistenta</string>
+    <string name="battery_health_notify_learn_more">Saznajte više</string>
+    <string name="charging_reverse_text">Dijeljenje baterije</string>
+    <string name="columbus_bouncer_message">Otključajte da biste dovršili brzi dodir</string>
+    <string name="columbus_target_request_dialog_allow">Dopusti</string>
+    <string name="columbus_target_request_dialog_deny">Nemoj dopustiti</string>
+    <string name="columbus_target_request_dialog_summary">Dvaput dodirnite stražnju stranu telefona da biste otvorili aplikaciju %1$s. To uvijek možete promijeniti u postavkama.</string>
+    <string name="columbus_target_request_dialog_title">Želite li dopustiti da se brzim dodirom otvara %1$s?</string>
+    <string name="defender_notify_des">Punjenje se optimizira radi produljenja trajanja baterije</string>
+    <string name="defender_notify_resume_charge">Napuni do kraja</string>
+    <string name="defender_notify_title">Zaštita baterije</string>
+    <string name="defender_post_notify_des">Radi produljenja trajanja baterije punjenje se optimiziralo od %1$s do %2$s</string>
+    <string name="defender_post_notify_title">Punjenje se optimiziralo</string>
+    <string name="dock_a11y_action_show_photo_text">Prikaži fotookvir</string>
+    <string name="dock_alignment_not_charging" product="default">Ponovo namjestite telefon da bi se punio bežično</string>
+    <string name="dock_alignment_slow_charging" product="default">Ponovo namjestite telefon da bi se brže punio</string>
+    <string name="dock_defender_first_run_des">Punjenje se optimizira dok je uređaj na priključnoj stanici radi produljenja trajanja baterije. Otvorite postavke da biste bateriju napunili do kraja.</string>
+    <string name="dock_defender_first_run_settings">Postavke</string>
+    <string name="dock_defender_first_run_title">Zaštita baterije</string>
+    <string name="dock_photo_preview_text">Pokretanje fotookvira...</string>
+    <string name="dock_promo_text">Prijeđite prstom ulijevo za Fotookvir</string>
+    <string name="extreme_battery_saver_text">Ekstremno</string>
+    <string name="extreme_low_battery_notification_text">Telefon će se isključiti ako se uskoro ne napuni</string>
+    <string name="extreme_low_battery_notification_title">Vrlo slaba baterija</string>
+    <string name="face_reenroll_dialog_confirm">Postavite</string>
+    <string name="face_reenroll_failure_dialog_content">Postavljanje otključavanja licem nije uspjelo. Pokušajte ponovo u Postavkama.</string>
+    <string name="finder_active">Telefon možete pronaći pomoću usluge Pronađi moj uređaj čak i kada je isključen</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">Prijeđite prstom da biste govorili</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">Saznajte više</string>
+    <string name="incompatible_charging_notify_des">Baterija se puni sporo ili se ne puni. Provjerite funkcioniraju li kabel i pretvarač napona s vašim telefonom</string>
+    <string name="incompatible_charging_notify_title">Problem s priborom za punjenje</string>
+    <string name="install_app">Instalacija</string>
+    <string name="keyguard_indication_trust_unlocked">Ostaje otključan produženjem otključavanja</string>
+    <string name="low_battery_label">Slaba baterija</string>
+    <string name="low_battery_notification_text">Preostalo baterije: %s</string>
+    <string name="low_battery_notification_title">Želite li uključiti standardnu štednju baterije?</string>
+    <string name="quick_settings_rotation_posture_folded">sklopljeno</string>
+    <string name="quick_settings_rotation_posture_unfolded">rasklopljeno</string>
+    <string name="reverse_charging_device_name_text">Drugi Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">Uređaj %1$s osigurava punjenje (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Dijeljenje baterije uključeno</string>
+    <string name="reverse_charging_title">Dijeljenje baterije</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Odustani</string>
+    <string name="saver_confirmation_dialog_subtitle">Odaberite način rada koji ćete upotrebljavati</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Uključuje sve prethodno navedene promjene. Pauzira i aplikacije koje nisu nužne i njihove obavijesti.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Ograničava vizualne efekte i pozadinsku aktivnost, na primjer ažuriranja aplikacija. Uključuje tamnu temu ako još nije uključena.</string>
+    <string name="saver_confirmation_dialog_title">Dobro došli u štednju baterije</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Ekstremna štednja baterije</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Standardna štednja baterije</string>
+    <string name="saver_notification_dismiss_text">Ne, hvala</string>
+    <string name="screen_protector_absent_message">Onemogućivanjem načina zaštite zaslona poboljšava se dodir kad se zaštita zaslona ne upotrebljava.</string>
+    <string name="screen_protector_disable_notification">Onemogući obavijesti</string>
+    <string name="screen_protector_go_to_settings">Otvori postavke</string>
+    <string name="screen_protector_got_it">Shvaćam</string>
+    <string name="screen_protector_mode_title">Način zaštite zaslona</string>
+    <string name="screen_protector_present_message">Omogućivanjem načina zaštite zaslona poboljšava se dodir kad se zaštita zaslona upotrebljava.</string>
+    <string name="selectable_url_description">URL koji se može odabrati</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Prebaci</string>
+    <string name="severe_low_battery_dialog_switch_text">"Preostalo baterije: %s
+
+Pauzirat će se sve aplikacije koje nisu nužne i njihove obavijesti"</string>
+    <string name="severe_low_battery_dialog_switch_title">Želite li prijeći na ekstremnu štednju baterije?</string>
+    <string name="severe_low_battery_dialog_text">"Preostalo baterije: %s
+
+Smanjit će se vizualni efekti i aktivnost u pozadini te pauzirati sve aplikacije koje nisu nužne"</string>
+    <string name="severe_low_battery_dialog_title">Želite li uključiti ekstremnu štednju baterije?</string>
+    <string name="shutdown_progress">Isključivanje…</string>
+    <string name="smartspace_flight_qr_code">QR kôd</string>
+    <string name="squeeze_invocation_prompt">Stisnite za govor</string>
+    <string name="standard_battery_saver_text">Standardno</string>
+    <string name="too_hot_label">Pixel se previše zagrijao</string>
+    <string name="wireless_charging_label">Bežično punjenje</string>
+</resources>

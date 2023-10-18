@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Kutafuta kwa kutamka</string>
+    <string name="accessibility_next_alarm">Kengele inayofuata saa %s</string>
+    <string name="accessibility_settings_gear">Mipangilio ya Pixel Stand</string>
+    <string name="accessibility_smartspace_page">Ukurasa wa %1$d kati ya %2$d</string>
+    <string name="adaptive_charging_notify_des">Betri itajaa kufikia saa %1$s. Inachaji kwa haraka ili kuongeza muda wa matumizi ya betri.</string>
+    <string name="adaptive_charging_notify_title">Hali ya kuchaji inayojirekebisha imewashwa</string>
+    <string name="adaptive_charging_notify_turn_off_once">Zima mara moja</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Hali ya Kuchaji Inayojirekebisha • Itajaa kufikia saa %2$s</string>
+    <string name="assistant_keyboard_icon_label">Kibodi</string>
+    <string name="assistant_scrim_label">Inasikiliza, gusa ili ughairi</string>
+    <string name="assistant_zero_state_icon_label">Muhtasari wa Mratibu</string>
+    <string name="battery_health_notify_learn_more">Pata maelezo zaidi</string>
+    <string name="charging_reverse_text">Kinashiriki betri</string>
+    <string name="columbus_bouncer_message">Fungua ili umalize Kugusa Haraka</string>
+    <string name="columbus_target_request_dialog_allow">Ruhusu</string>
+    <string name="columbus_target_request_dialog_deny">Usiruhusu</string>
+    <string name="columbus_target_request_dialog_summary">Gusa nyuma ya simu yako mara mbili ili ufungue %1$s. Unaweza kubadilisha hali hii wakati wowote katika Mipangilio.</string>
+    <string name="columbus_target_request_dialog_title">Ungependa kuruhusu ishara ya Kugusa Haraka ifungue %1$s?</string>
+    <string name="defender_notify_des">Hali ya kuchaji imeboreshwa ili kusaidia kuongeza muda wa matumizi ya betri yako</string>
+    <string name="defender_notify_resume_charge">Chaji hadi ijae</string>
+    <string name="defender_notify_title">Kulinda betri yako</string>
+    <string name="defender_post_notify_des">Ili usaidie kuongeza muda wa matumizi ya betri yako, hali ya kuchaji iliboreshwa kuanzia %1$s hadi %2$s</string>
+    <string name="defender_post_notify_title">Hali ya kuchaji iliboreshwa</string>
+    <string name="dock_a11y_action_show_photo_text">Onyesha fremu ya picha</string>
+    <string name="dock_alignment_not_charging" product="default">Pangilia tena simu ili ichaji bila kutumia waya</string>
+    <string name="dock_alignment_slow_charging" product="default">Pangilia tena simu ili ichaji kwa kasi</string>
+    <string name="dock_defender_first_run_des">Hali ya kuchaji huboreshwa wakati kifaa kimepachikwa ili kusaidia kuongeza muda wa matumizi ya betri. Nenda kwenye Mipangilio ili uchaji kikamilifu.</string>
+    <string name="dock_defender_first_run_settings">Mipangilio</string>
+    <string name="dock_defender_first_run_title">Kulinda betri yako</string>
+    <string name="dock_photo_preview_text">Inaanza kuweka fremu ya picha...</string>
+    <string name="dock_promo_text">Telezesha kidole kushoto ili upate fremu ya picha</string>
+    <string name="extreme_battery_saver_text">Kwa kina</string>
+    <string name="extreme_low_battery_notification_text">Simu yako itazimika usipoichaji hivi karibuni</string>
+    <string name="extreme_low_battery_notification_title">Chaji imepungua sana</string>
+    <string name="face_reenroll_dialog_confirm">Weka mipangilio</string>
+    <string name="finder_active">Unaweza kutafuta simu hii ukitumia programu ya Tafuta Kifaa Changu hata kama imezimwa</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">Telezesha kidole ili uzungumze</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">Pata maelezo zaidi</string>
+    <string name="incompatible_charging_notify_des">Betri inachaji polepole au haitachaji. Angalia ikiwa kebo na adapta ya nishati zinafanya kazi kwenye simu yako</string>
+    <string name="incompatible_charging_notify_title">Kifuasi cha kuchaji kina hitilafu</string>
+    <string name="install_app">Sakinisha programu</string>
+    <string name="keyguard_indication_trust_unlocked">Imefunguliwa kwa Kiongeza Muda wa Kutofunga Skrini</string>
+    <string name="low_battery_label">Chaji ya betri imepungua</string>
+    <string name="low_battery_notification_text">Umebakiza %s ya chaji ya betri</string>
+    <string name="low_battery_notification_title">Ungependa kuwasha Kiokoa Betri cha Wastani?</string>
+    <string name="quick_settings_rotation_posture_folded">imekunjwa</string>
+    <string name="quick_settings_rotation_posture_unfolded">haijakunjwa</string>
+    <string name="reverse_charging_device_name_text">Pixel nyingine</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s inatoa chaji (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Kipengele cha Kushiriki Betri kimewashwa</string>
+    <string name="reverse_charging_title">Kushiriki Betri</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Ghairi</string>
+    <string name="saver_confirmation_dialog_subtitle">Chagua hali ya kutumia</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Inajumuisha mabadiliko yote yaliyoorodheshwa hapo juu. Pia husitisha programu zisizo muhimu na arifa zake.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Huweka vikomo vya madoido yanayoonekana na shughuli za chinichini, kama vile masasisho ya programu. Huwasha hali ya Mandhari meusi, iwapo haijawashwa.</string>
+    <string name="saver_confirmation_dialog_title">Karibu katika kipengele cha Kiokoa Betri</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Kiokoa Betri kwa Kina</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Kiokoa Betri kwa Wastani</string>
+    <string name="saver_notification_dismiss_text">Hapana</string>
+    <string name="screen_protector_absent_message">Kuzima hali ya ulinzi wa skrini huboresha ugusaji wakati ulinzi wa skrini hautumiki.</string>
+    <string name="screen_protector_disable_notification">Zima arifa</string>
+    <string name="screen_protector_go_to_settings">Nenda kwenye mipangilio</string>
+    <string name="screen_protector_got_it">Nimeelewa</string>
+    <string name="screen_protector_mode_title">Hali ya ulinzi wa skrini</string>
+    <string name="screen_protector_present_message">Kuwasha hali ya ulinzi wa skrini huboresha ugusaji wakati unatumia ulinzi wa skrini.</string>
+    <string name="selectable_url_description">URL inayoweza kuchaguliwa</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Badilisha</string>
+    <string name="severe_low_battery_dialog_switch_text">"Umebakiza %s ya chaji ya betri
+
+Hali hii itasimamisha programu zote zisizo muhimu pamoja na arifa husika"</string>
+    <string name="severe_low_battery_dialog_switch_title">Ungependa kutumia Kiokoa Betri kwa Kina?</string>
+    <string name="severe_low_battery_dialog_text">"Umebakiza %s ya chaji ya betri
+
+Hatua hii itapunguza madoido yanayoonekana na shughuli za chinichini na kusimamisha programu zote zisizo muhimu"</string>
+    <string name="severe_low_battery_dialog_title">Ungependa kuwasha Kiokoa Betri kwa Kina?</string>
+    <string name="shutdown_progress">Inazima…</string>
+    <string name="smartspace_flight_qr_code">Msimbo wa QR</string>
+    <string name="squeeze_invocation_prompt">Bana ili uzungumze</string>
+    <string name="standard_battery_saver_text">Kawaida</string>
+    <string name="too_hot_label">Pixel ina joto jingi</string>
+    <string name="wireless_charging_label">Inachaji bila kutumia waya</string>
+</resources>

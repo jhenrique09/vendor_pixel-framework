@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Röstsökning</string>
+    <string name="accessibility_next_alarm">Nästa alarm är kl. %s</string>
+    <string name="accessibility_settings_gear">Inställningar för Pixel Stand</string>
+    <string name="accessibility_smartspace_page">Sida %1$d av %2$d</string>
+    <string name="adaptive_charging_notify_des">Batteriet är fulladdat kl. %1$s. Laddas kontinuerligt så att batteriet ska räcka längre.</string>
+    <string name="adaptive_charging_notify_title">Smart laddning har aktiverats</string>
+    <string name="adaptive_charging_notify_turn_off_once">Stäng av en gång</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Smart laddning • Färdigt om %2$s</string>
+    <string name="assistant_keyboard_icon_label">Tangentbord</string>
+    <string name="assistant_scrim_label">Lyssnar, tryck för att avbryta</string>
+    <string name="assistant_zero_state_icon_label">Översikt för Google Assistent</string>
+    <string name="battery_health_notify_learn_more">Läs mer</string>
+    <string name="charging_reverse_text">Delar batteri</string>
+    <string name="columbus_bouncer_message">Lås upp för att slutföra snabbtryck</string>
+    <string name="columbus_target_request_dialog_allow">Tillåt</string>
+    <string name="columbus_target_request_dialog_deny">Tillåt inte</string>
+    <string name="columbus_target_request_dialog_summary">Öppna %1$s genom att trycka snabbt två gånger på baksidan av telefonen. Du kan när som helst ändra detta i inställningarna.</string>
+    <string name="columbus_target_request_dialog_title">Vill du tillåta att %1$s öppnas med snabbtryck?</string>
+    <string name="defender_notify_des">Laddningen har optimerats för att batteriet ska räcka längre</string>
+    <string name="defender_notify_resume_charge">Ladda fullt</string>
+    <string name="defender_notify_title">Skydda ditt batteri</string>
+    <string name="defender_post_notify_des">Laddningen optimerades från %1$s till %2$s så att batteriet räcker längre</string>
+    <string name="defender_post_notify_title">Laddningen har optimerats</string>
+    <string name="dock_a11y_action_show_photo_text">Visa fotoram</string>
+    <string name="dock_alignment_not_charging" product="default">Räta upp telefonen för att ladda trådlöst</string>
+    <string name="dock_alignment_slow_charging" product="default">Räta upp telefonen för att ladda snabbare</string>
+    <string name="dock_defender_first_run_des">Laddningen optimeras när enheten är dockad för att batteriet ska räcka längre. Öppna inställningarna för att ladda till fulladdat.</string>
+    <string name="dock_defender_first_run_settings">Inställningar</string>
+    <string name="dock_defender_first_run_title">Skydda ditt batteri</string>
+    <string name="dock_photo_preview_text">Fotoram startas …</string>
+    <string name="dock_promo_text">Svep åt vänster för fotoram</string>
+    <string name="extreme_battery_saver_text">Effektivare läget</string>
+    <string name="extreme_low_battery_notification_text">Telefonen stängs av om den inte laddas snart</string>
+    <string name="extreme_low_battery_notification_title">Mycket låg batterinivå</string>
+    <string name="face_reenroll_dialog_confirm">Konfigurera</string>
+    <string name="finder_active">Du kan hitta den här telefonen med Hitta min enhet även när den är avstängd</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">Svep och prata</string>
+    <string name="home_controls_tile_title">Hem</string>
+    <string name="incompatible_charging_learn_more">Läs mer</string>
+    <string name="incompatible_charging_notify_des">Batteriet laddas långsamt eller inte alls. Kontrollera om kabeln och nätadaptern fungerar med din telefon</string>
+    <string name="incompatible_charging_notify_title">Ett problem uppstod med att ladda tillbehöret</string>
+    <string name="install_app">Installera appen</string>
+    <string name="keyguard_indication_trust_unlocked">Hålls upplåst med Håll olåst</string>
+    <string name="low_battery_label">Låg batterinivå</string>
+    <string name="low_battery_notification_text">%s av batteriet återstår</string>
+    <string name="low_battery_notification_title">Vill du aktivera standardbatterisparläget?</string>
+    <string name="quick_settings_rotation_posture_folded">hopvikt</string>
+    <string name="quick_settings_rotation_posture_unfolded">utvikt</string>
+    <string name="reverse_charging_device_name_text">En annan Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s används för att ladda (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Batteridelning är på</string>
+    <string name="reverse_charging_title">Batteridelning</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Avbryt</string>
+    <string name="saver_confirmation_dialog_subtitle">Välj vilket läge du vill använda</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Omfattar alla ändringar som anges ovan. Appar som inte är viktiga och deras aviseringar pausas också.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Begränsar visuella effekter och aktivitet i bakgrunden, till exempel appuppdateringar. Mörkt tema aktiveras om det inte redan är på.</string>
+    <string name="saver_confirmation_dialog_title">Välkommen till Batterisparläge</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Effektivare batterisparläge</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Standardbatterisparläge</string>
+    <string name="saver_notification_dismiss_text">Nej tack</string>
+    <string name="screen_protector_absent_message">Inaktivera skärmskyddsläget för bättre tryckrespons när inget skärmskydd används.</string>
+    <string name="screen_protector_disable_notification">Inaktivera avisering</string>
+    <string name="screen_protector_go_to_settings">Öppna inställningar</string>
+    <string name="screen_protector_got_it">OK</string>
+    <string name="screen_protector_mode_title">Skärmskyddsläge</string>
+    <string name="screen_protector_present_message">Aktivera skärmskyddsläget för bättre tryckrespons när skärmskydd används.</string>
+    <string name="selectable_url_description">Webbadress som kan markeras</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Byt</string>
+    <string name="severe_low_battery_dialog_switch_text">"%s av batteriet återstår
+
+Detta pausar alla appar som inte är viktiga samt deras aviseringar"</string>
+    <string name="severe_low_battery_dialog_switch_title">Vill du byta till det effektivare batterisparläget?</string>
+    <string name="severe_low_battery_dialog_text">"%s av batteriet återstår
+
+Detta minskar visuella effekter och aktivitet i bakgrunden, samt pausar alls appar som inte är viktiga"</string>
+    <string name="severe_low_battery_dialog_title">Vill du aktivera det effektivare batterisparläget?</string>
+    <string name="shutdown_progress">Stänger av …</string>
+    <string name="smartspace_flight_qr_code">QR-kod</string>
+    <string name="squeeze_invocation_prompt">Kläm och prata</string>
+    <string name="standard_battery_saver_text">Standard</string>
+    <string name="too_hot_label">Pixel är för varm</string>
+    <string name="wireless_charging_label">Laddas trådlöst</string>
+</resources>

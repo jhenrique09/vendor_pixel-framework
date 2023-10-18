@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">ស្វែងរក​តាម​សំឡេង</string>
+    <string name="accessibility_next_alarm">ម៉ោងរោទ៍បន្ទាប់នៅម៉ោង %s</string>
+    <string name="accessibility_settings_gear">ការកំណត់ Pixel Stand</string>
+    <string name="accessibility_smartspace_page">ទំព័រទី %1$d នៃ %2$d</string>
+    <string name="adaptive_charging_notify_des">ថ្មពេញនៅត្រឹមម៉ោង %1$s។ កំពុង​សាកថ្ម​បន្តិចម្ដងៗ ដើម្បីបង្កើន​អាយុកាលថ្ម។</string>
+    <string name="adaptive_charging_notify_title">ការសាកថ្ម​ដែលមាន​ភាពបត់បែន​គឺបើក</string>
+    <string name="adaptive_charging_notify_turn_off_once">បិទម្ដង</string>
+    <string name="adaptive_charging_time_estimate">%1$s • ការសាកថ្មដែលមានភាពបត់បែន • ពេញនៅត្រឹមម៉ោង %2$s</string>
+    <string name="assistant_keyboard_icon_label">ក្ដារចុច</string>
+    <string name="assistant_scrim_label">កំពុងស្ដាប់ សូមចុចដើម្បីបោះបង់</string>
+    <string name="assistant_zero_state_icon_label">ទិដ្ឋភាពរួម​អំពីជំនួយការ</string>
+    <string name="battery_health_notify_learn_more">ស្វែងយល់បន្ថែម</string>
+    <string name="charging_reverse_text">កំពុង​ចែករំលែក​ថ្ម</string>
+    <string name="columbus_bouncer_message">ដោះសោ​ដើម្បីបញ្ចប់​ការប៉ះរហ័ស</string>
+    <string name="columbus_target_request_dialog_allow">អនុញ្ញាត</string>
+    <string name="columbus_target_request_dialog_deny">មិនអនុញ្ញាត</string>
+    <string name="columbus_target_request_dialog_summary">ប៉ះផ្នែក​ខាងក្រោយទូរសព្ទ​របស់អ្នក​ពីរដង ដើម្បីបើក %1$s។ អ្នកអាច​ប្ដូរវា​បានគ្រប់ពេល​នៅក្នុង​ការកំណត់។</string>
+    <string name="columbus_target_request_dialog_title">អនុញ្ញាតឱ្យ \"ការប៉ះរហ័ស\" បើក %1$s ឬ?</string>
+    <string name="defender_notify_des">ការសាកត្រូវបានបង្កើនប្រសិទ្ធភាព ដើម្បីជួយបង្កើនអាយុកាលថ្មរបស់អ្នក</string>
+    <string name="defender_notify_resume_charge">សាកថ្ម​រហូតដល់​ពេញ</string>
+    <string name="defender_notify_title">ការការពារ​ថ្មរបស់អ្នក</string>
+    <string name="defender_post_notify_des">ដើម្បីជួយបង្កើនអាយុកាលថ្ម ការសាកត្រូវបានបង្កើនប្រសិទ្ធភាពពីម៉ោង %1$s ដល់ %2$s</string>
+    <string name="defender_post_notify_title">ការសាកត្រូវបានបង្កើនប្រសិទ្ធភាព</string>
+    <string name="dock_a11y_action_show_photo_text">បង្ហាញ​ស៊ុមរូបថត</string>
+    <string name="dock_alignment_not_charging" product="default">ដាក់ទូរសព្ទ​ឱ្យត្រូវកន្លែង ដើម្បីសាកថ្មដោយឥតប្រើខ្សែ</string>
+    <string name="dock_alignment_slow_charging" product="default">ដាក់ទូរសព្ទ​ឱ្យត្រូវកន្លែង ដើម្បីសាកថ្ម​រហ័សជាងមុន</string>
+    <string name="dock_defender_first_run_des">ការសាកត្រូវបានបង្កើនប្រសិទ្ធភាពពេលភ្ជាប់ ដើម្បីជួយបង្កើនអាយុកាលថ្មរបស់អ្នក។ សូមចូលទៅកាន់ការកំណត់ ដើម្បីសាកថ្មឱ្យពេញ។</string>
+    <string name="dock_defender_first_run_settings">ការកំណត់</string>
+    <string name="dock_defender_first_run_title">កំពុង​ការពារ​ថ្មរបស់អ្នក</string>
+    <string name="dock_photo_preview_text">ស៊ុម​រូបថត​កំពុងចាប់ផ្ដើម...</string>
+    <string name="dock_promo_text">អូសទៅឆ្វេង​សម្រាប់ស៊ុមរូបថត</string>
+    <string name="extreme_battery_saver_text">ខ្លាំងបំផុត</string>
+    <string name="extreme_low_battery_notification_text">ទូរសព្ទ​របស់អ្នក​នឹង​បិទ ប្រសិនបើមិនសាកថ្មឧបករណ៍នេះឱ្យបានឆាប់ទេ</string>
+    <string name="extreme_low_battery_notification_title">ជិតអស់ថ្មមែនទែនហើយ</string>
+    <string name="face_reenroll_dialog_confirm">រៀបចំ</string>
+    <string name="finder_active">អ្នកអាចកំណត់ទីតាំងទូរសព្ទនេះដោយប្រើកម្មវិធីរកឧបករណ៍របស់ខ្ញុំ សូម្បីនៅពេលបិទថាមពល</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">អូស​ដើម្បី​និយាយ</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">ស្វែងយល់បន្ថែម</string>
+    <string name="incompatible_charging_notify_des">សាកថ្មយឺត ឬសាកថ្មមិនចូល។ ពិនិត្យមើលថាតើខ្សែ និងឆ្នាំងសាកដំណើរការជាមួយទូរសព្ទរបស់អ្នកឬអត់</string>
+    <string name="incompatible_charging_notify_title">បញ្ហាពាក់ព័ន្ធនឹងគ្រឿងសាកថ្ម</string>
+    <string name="install_app">ដំឡើង​កម្មវិធី</string>
+    <string name="keyguard_indication_trust_unlocked">ទុកឱ្យនៅដោះសោដោយប្រើ Extend Unlock</string>
+    <string name="low_battery_label">ជិតអស់​ថ្មហើយ</string>
+    <string name="low_battery_notification_text">នៅសល់ថ្ម %s</string>
+    <string name="low_battery_notification_title">បើកមុខងារ​សន្សំ​ថ្មស្តង់ដារឬ?</string>
+    <string name="quick_settings_rotation_posture_folded">បត់</string>
+    <string name="quick_settings_rotation_posture_unfolded">លា</string>
+    <string name="reverse_charging_device_name_text">Pixel ផ្សេងទៀត</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s កំពុងផ្ដល់​ការសាកថ្ម (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ការចែករំលែកថ្ម​ត្រូវបានបើក</string>
+    <string name="reverse_charging_title">ការចែករំលែក​ថ្ម</string>
+    <string name="saver_confirmation_dialog_dismiss_text">បោះបង់</string>
+    <string name="saver_confirmation_dialog_subtitle">ជ្រើសរើសមុខងារសម្រាប់ប្រើ</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">រួមបញ្ចូលការផ្លាស់ប្ដូរទាំងអស់ដែលបង្ហាញខាងលើ។ ផ្អាក​កម្មវិធីមិនចាំបាច់ និងការជូនដំណឹង​របស់កម្មវិធីទាំងនោះ​ផងដែរ។</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">ដាក់កំហិតលើ​បែបផែនដែលមើលឃើញ និងសកម្មភាពនៅផ្ទៃខាងក្រោយ ដូចជាការដំឡើងកំណែកម្មវិធីថ្មីៗជាដើម។ បើកទម្រង់រចនាងងឹត ប្រសិនបើមិនទាន់បើក។</string>
+    <string name="saver_confirmation_dialog_title">សូមស្វាគមន៍​មកកាន់មុខងារ​សន្សំ​ថ្ម</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">មុខងារសន្សំថ្មខ្លាំង</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">មុខងារ​សន្សំ​ថ្មស្តង់ដារ</string>
+    <string name="saver_notification_dismiss_text">ទេ អរគុណ</string>
+    <string name="screen_protector_absent_message">ការបិទមុខងារកញ្ចក់ការពារអេក្រង់ធ្វើឱ្យការប៉ះប្រសើរឡើង នៅពេលកញ្ចក់​ការពារ​អេក្រង់មិនត្រូវបានប្រើ។</string>
+    <string name="screen_protector_disable_notification">បិទ​ការជូន​ដំណឹង</string>
+    <string name="screen_protector_go_to_settings">ចូលទៅកាន់ការកំណត់</string>
+    <string name="screen_protector_got_it">យល់ហើយ</string>
+    <string name="screen_protector_mode_title">មុខងារ​កញ្ចក់​ការពារ​អេក្រង់</string>
+    <string name="screen_protector_present_message">ការបើកមុខងារកញ្ចក់ការពារអេក្រង់ធ្វើឱ្យការប៉ះប្រសើរឡើង នៅពេលប្រើកញ្ចក់​ការពារ​អេក្រង់។</string>
+    <string name="selectable_url_description">URL ដែលអាច​ជ្រើសរើស​បាន</string>
+    <string name="severe_low_battery_dialog_switch_action_text">ប្ដូរ</string>
+    <string name="severe_low_battery_dialog_switch_text">"នៅសល់ថ្ម %s
+
+វានឹងផ្អាកកម្មវិធីមិន​ចាំបាច់ទាំងអស់ ព្រមទាំងការជូនដំណឹងរបស់កម្មវិធីទាំងនោះ"</string>
+    <string name="severe_low_battery_dialog_switch_title">ប្ដូរទៅមុខងារសន្សំថ្មខ្លាំងឬ?</string>
+    <string name="severe_low_battery_dialog_text">"នៅសល់ថ្ម %s
+
+វានឹងបន្ថយបែបផែនដែលមើលឃើញ និងសកម្មភាពនៅផ្ទៃខាងក្រោយ ហើយផ្អាកកម្មវិធី​មិនចាំបាច់ទាំងអស់"</string>
+    <string name="severe_low_battery_dialog_title">បើក​មុខងារសន្សំថ្ម​ខ្លាំងឬ?</string>
+    <string name="shutdown_progress">កំពុង​បិទ…</string>
+    <string name="smartspace_flight_qr_code">​កូដ QR</string>
+    <string name="squeeze_invocation_prompt">ច្របាច់ដើម្បីនិយាយ</string>
+    <string name="standard_battery_saver_text">ស្តង់ដារ</string>
+    <string name="too_hot_label">Pixel ក្ដៅពេក</string>
+    <string name="wireless_charging_label">កំពុង​សាកថ្ម​ឥតខ្សែ</string>
+</resources>

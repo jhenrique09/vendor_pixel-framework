@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">ਅਵਾਜ਼ੀ ਖੋਜ</string>
+    <string name="accessibility_next_alarm">ਅਗਲਾ ਅਲਾਰਮ %s ਵਜੇ</string>
+    <string name="accessibility_settings_gear">Pixel Stand ਦੀਆਂ ਸੈਟਿੰਗਾਂ</string>
+    <string name="accessibility_smartspace_page">%2$d ਵਿੱਚੋਂ %1$d ਪੰਨਾ</string>
+    <string name="adaptive_charging_notify_des">%1$s ਤੱਕ ਬੈਟਰੀ ਪੂਰੀ ਚਾਰਜ ਹੋ ਜਾਵੇਗੀ। ਬੈਟਰੀ ਦੀ ਜੀਵਨ ਮਿਆਦ ਨੂੰ ਵਧਾਉਣ ਲਈ ਹੌਲੀ-ਹੌਲੀ ਚਾਰਜ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।</string>
+    <string name="adaptive_charging_notify_title">ਅਡੈਪਟਿਵ ਚਾਰਜਿੰਗ ਚਾਲੂ ਹੈ</string>
+    <string name="adaptive_charging_notify_turn_off_once">ਇੱਕ ਵਾਰ ਬੰਦ ਕਰੋ</string>
+    <string name="adaptive_charging_time_estimate">%1$s • ਅਡੈਪਟਿਵ ਚਾਰਜਿੰਗ • %2$s ਤੱਕ ਪੂਰੀ ਚਾਰਜ ਹੋ ਜਾਵੇਗੀ</string>
+    <string name="assistant_keyboard_icon_label">ਕੀ-ਬੋਰਡ</string>
+    <string name="assistant_scrim_label">ਸੁਣ ਰਹੀ ਹੈ, ਰੱਦ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="assistant_zero_state_icon_label">Assistant ਦੀ ਰੂਪ-ਰੇਖਾ</string>
+    <string name="battery_health_notify_learn_more">ਹੋਰ ਜਾਣੋ</string>
+    <string name="charging_reverse_text">ਬੈਟਰੀ ਸਾਂਝੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="columbus_bouncer_message">ਕਵਿੱਕ ਟੈਪ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਅਣਲਾਕ ਕਰੋ</string>
+    <string name="columbus_target_request_dialog_allow">ਆਗਿਆ ਦਿਓ</string>
+    <string name="columbus_target_request_dialog_deny">ਆਗਿਆ ਨਾ ਦਿਓ</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ਐਪ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ। ਤੁਸੀਂ ਕਿਸੇ ਵੇਲੇ ਵੀ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਇਸਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
+    <string name="columbus_target_request_dialog_title">ਕੀ ਕਵਿੱਕ ਟੈਪ ਨੂੰ %1$s ਖੋਲ੍ਹਣ ਦੀ ਆਗਿਆ ਦੇਣੀ ਹੈ?</string>
+    <string name="defender_notify_des">ਤੁਹਾਡੀ ਬੈਟਰੀ ਦੀ ਮਿਆਦ ਨੂੰ ਵਧਾਉਣ ਵਿੱਚ ਮਦਦ ਲਈ ਚਾਰਜਿੰਗ ਨੂੰ ਸੁਯੋਗ ਬਣਾਇਆ ਗਿਆ ਹੈ</string>
+    <string name="defender_notify_resume_charge">ਪੂਰਾ ਚਾਰਜ ਕਰੋ</string>
+    <string name="defender_notify_title">ਬੈਟਰੀ ਦੀ ਸੁਰੱਖਿਆ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="defender_post_notify_des">ਬੈਟਰੀ ਦੀ ਮਿਆਦ ਨੂੰ ਵਧਾਉਣ ਵਿੱਚ ਮਦਦ ਲਈ, %1$s ਤੋਂ ਲੈ ਕੇ %2$s ਤੱਕ ਚਾਰਜਿੰਗ ਨੂੰ ਸੁਯੋਗ ਬਣਾਇਆ ਗਿਆ ਸੀ</string>
+    <string name="defender_post_notify_title">ਚਾਰਜਿੰਗ ਨੂੰ ਸੁਯੋਗ ਬਣਾਇਆ ਗਿਆ ਸੀ</string>
+    <string name="dock_a11y_action_show_photo_text">ਫ਼ੋਟੋ ਫਰੇਮ ਦਿਖਾਓ</string>
+    <string name="dock_alignment_not_charging" product="default">"ਫ਼ੋਨ ਨੂੰ ਬਿਨਾਂ ਤਾਰ ਤੋਂ ਚਾਰਜ ਕਰਨ ਲਈ ਡੌਕ 'ਤੇ ਸਹੀ ਕਰਕੇ ਰੱਖੋ"</string>
+    <string name="dock_alignment_slow_charging" product="default">"ਫ਼ੋਨ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਚਾਰਜ ਕਰਨ ਲਈ ਡੌਕ 'ਤੇ ਸਹੀ ਕਰਕੇ ਰੱਖੋ"</string>
+    <string name="dock_defender_first_run_des">ਡੌਕ ਹੋਣ ਦੌਰਾਨ ਤੁਹਾਡੀ ਬੈਟਰੀ ਦੀ ਮਿਆਦ ਨੂੰ ਵਧਾਉਣ ਵਿੱਚ ਮਦਦ ਲਈ ਚਾਰਜਿੰਗ ਨੂੰ ਸੁਯੋਗ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਪੂਰਾ ਚਾਰਜ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾਓ।</string>
+    <string name="dock_defender_first_run_settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="dock_defender_first_run_title">ਬੈਟਰੀ ਦੀ ਸੁਰੱਖਿਆ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="dock_photo_preview_text">ਫ਼ੋਟੋ ਫਰੇਮ ਨੂੰ ਸ਼ੁਰੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...</string>
+    <string name="dock_promo_text">ਫ਼ੋਟੋ ਫਰੇਮ ਲਈ ਖੱਬੇ ਪਾਸੇ ਸਵਾਈਪ ਕਰੋ</string>
+    <string name="extreme_battery_saver_text">ਐਕਸਟ੍ਰੀਮ</string>
+    <string name="extreme_low_battery_notification_text">ਜੇ ਤੁਹਾਡੇ ਫ਼ੋਨ ਨੂੰ ਜਲਦੀ ਚਾਰਜ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ, ਤਾਂ ਉਹ ਬੰਦ ਹੋ ਜਾਵੇਗਾ</string>
+    <string name="extreme_low_battery_notification_title">ਬੈਟਰੀ ਬਹੁਤ ਘੱਟ ਹੈ</string>
+    <string name="face_reenroll_dialog_confirm">ਸੈੱਟਅੱਪ ਕਰੋ</string>
+    <string name="finder_active">"ਬੰਦ ਹੋਣ 'ਤੇ ਵੀ, ਤੁਸੀਂ ਇਸ ਫ਼ੋਨ ਨੂੰ Find My Device ਦੀ ਮਦਦ ਨਾਲ ਲੱਭ ਸਕਦੇ ਹੋ"</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">ਗੱਲ ਕਰਨ ਲਈ ਸਵਾਈਪ ਕਰੋ</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">ਹੋਰ ਜਾਣੋ</string>
+    <string name="incompatible_charging_notify_des">ਬੈਟਰੀ ਹੌਲੀ ਚਾਰਜ ਹੋ ਰਹੀ ਹੈ ਜਾਂ ਚਾਰਜ ਨਹੀਂ ਹੋ ਰਹੀ। ਜਾਂਚ ਕਰੋ ਕਿ ਕੇਬਲ ਅਤੇ ਪਾਵਰ ਅਡਾਪਟਰ ਤੁਹਾਡੇ ਫ਼ੋਨ ਨਾਲ ਕੰਮ ਕਰ ਰਹੇ ਹਨ ਜਾਂ ਨਹੀਂ</string>
+    <string name="incompatible_charging_notify_title">ਚਾਰਜ ਕਰਨ ਵਾਲੀ ਐਕਸੈਸਰੀ ਸੰਬੰਧੀ ਸਮੱਸਿਆ</string>
+    <string name="install_app">ਐਪ ਸਥਾਪਤ ਕਰੋ</string>
+    <string name="keyguard_indication_trust_unlocked">ਐਕਸਟੈਂਡ ਅਣਲਾਕ ਵੱਲੋਂ ਅਣਲਾਕ ਰੱਖਿਆ ਗਿਆ</string>
+    <string name="low_battery_label">ਬੈਟਰੀ ਘੱਟ ਹੈ</string>
+    <string name="low_battery_notification_text">%s ਬੈਟਰੀ ਬਾਕੀ ਬਚੀ ਹੈ</string>
+    <string name="low_battery_notification_title">ਕੀ ਮਿਆਰੀ ਬੈਟਰੀ ਸੇਵਰ ਚਾਲੂ ਕਰਨਾ ਹੈ?</string>
+    <string name="quick_settings_rotation_posture_folded">ਮੋੜਨਯੋਗ ਡੀਵਾਈਸ</string>
+    <string name="quick_settings_rotation_posture_unfolded">ਨਾ-ਮੋੜਨਯੋਗ ਡੀਵਾਈਸ</string>
+    <string name="reverse_charging_device_name_text">ਹੋਰ Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s ਚਾਰਜ ਮੁਹੱਈਆ ਕਰ ਰਿਹਾ ਹੈ (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ਬੈਟਰੀ ਸ਼ੇਅਰ ਚਾਲੂ ਹੈ</string>
+    <string name="reverse_charging_title">ਬੈਟਰੀ ਸ਼ੇਅਰ</string>
+    <string name="saver_confirmation_dialog_dismiss_text">ਰੱਦ ਕਰੋ</string>
+    <string name="saver_confirmation_dialog_subtitle">ਵਰਤਣ ਲਈ ਮੋਡ ਚੁਣੋ</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">ਇਸ ਵਿੱਚ ਉੱਪਰ ਸੂਚੀਬੱਧ ਕੀਤੀਆਂ ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਸ਼ਾਮਲ ਹਨ। ਗੈਰ-ਜ਼ਰੂਰੀ ਐਪਾਂ ਅਤੇ ਇਨ੍ਹਾਂ ਦੀਆਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਵੀ ਰੋਕਦਾ ਹੈ।</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">ਦ੍ਰਿਸ਼ਟੀਗਤ ਪ੍ਰਭਾਵਾਂ ਅਤੇ ਐਪ ਸੰਬੰਧੀ ਅੱਪਡੇਟਾਂ ਵਰਗੀ ਬੈਕਗ੍ਰਾਊਂਡ ਸਰਗਰਮੀ ਨੂੰ ਸੀਮਤ ਕਰਦਾ ਹੈ। ਜੇ ਗੂੜ੍ਹਾ ਥੀਮ ਪਹਿਲਾਂ ਤੋਂ ਚਾਲੂ ਨਹੀਂ ਹੈ, ਤਾਂ ਉਸਨੂੰ ਚਾਲੂ ਕਰਦਾ ਹੈ।</string>
+    <string name="saver_confirmation_dialog_title">ਬੈਟਰੀ ਸੇਵਰ ਵਿੱਚ ਜੀ ਆਇਆਂ ਨੂੰ</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">ਐਕਸਟ੍ਰੀਮ ਬੈਟਰੀ ਸੇਵਰ</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">ਮਿਆਰੀ ਬੈਟਰੀ ਸੇਵਰ</string>
+    <string name="saver_notification_dismiss_text">ਨਹੀਂ, ਧੰਨਵਾਦ</string>
+    <string name="screen_protector_absent_message">"ਸਕ੍ਰੀਨ ਗਾਰਡ ਨਾ ਵਰਤਣ ਵੇਲੇ, ਸਕ੍ਰੀਨ ਗਾਰਡ ਮੋਡ ਬੰਦ ਕਰਨ 'ਤੇ ਸਪਰਸ਼ ਬਿਹਤਰ ਹੁੰਦਾ ਹੈ।"</string>
+    <string name="screen_protector_disable_notification">ਸੂਚਨਾ ਬੰਦ ਕਰੋ</string>
+    <string name="screen_protector_go_to_settings">"ਸੈਟਿੰਗਾਂ 'ਤੇ ਜਾਓ"</string>
+    <string name="screen_protector_got_it">ਸਮਝ ਲਿਆ</string>
+    <string name="screen_protector_mode_title">ਸਕ੍ਰੀਨ ਗਾਰਡ ਮੋਡ</string>
+    <string name="screen_protector_present_message">"ਸਕ੍ਰੀਨ ਗਾਰਡ ਵਰਤਣ ਵੇਲੇ, ਸਕ੍ਰੀਨ ਗਾਰਡ ਮੋਡ ਚਾਲੂ ਕਰਨ 'ਤੇ ਸਪਰਸ਼ ਬਿਹਤਰ ਹੁੰਦਾ ਹੈ।"</string>
+    <string name="selectable_url_description">ਚੁਣਨਯੋਗ URL</string>
+    <string name="severe_low_battery_dialog_switch_action_text">ਸਵਿੱਚ ਕਰੋ</string>
+    <string name="severe_low_battery_dialog_switch_text">"%s ਬੈਟਰੀ ਬਾਕੀ ਬਚੀ ਹੈ
+
+ਇਸ ਨਾਲ ਸਾਰੀਆਂ ਗੈਰ-ਜ਼ਰੂਰੀ ਐਪਾਂ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀਆਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਰੋਕ ਦਿੱਤਾ ਜਾਵੇਗਾ"</string>
+    <string name="severe_low_battery_dialog_switch_title">"ਕੀ ਐਕਸਟ੍ਰੀਮ ਬੈਟਰੀ ਸੇਵਰ 'ਤੇ ਸਵਿੱਚ ਕਰਨਾ ਹੈ?"</string>
+    <string name="severe_low_battery_dialog_text">"%s ਬੈਟਰੀ ਬਾਕੀ ਬਚੀ ਹੈ
+
+ਇਸ ਨਾਲ ਦ੍ਰਿਸ਼ਟੀਗਤ ਪ੍ਰਭਾਵਾਂ ਅਤੇ ਬੈਕਗ੍ਰਾਊਂਡ ਸਰਗਰਮੀ ਨੂੰ ਘਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ ਅਤੇ ਸਾਰੀਆਂ ਗੈਰ-ਜ਼ਰੂਰੀ ਐਪਾਂ ਨੂੰ ਰੋਕ ਦਿੱਤਾ ਜਾਵੇਗਾ"</string>
+    <string name="severe_low_battery_dialog_title">ਕੀ ਐਕਸਟ੍ਰੀਮ ਬੈਟਰੀ ਸੇਵਰ ਨੂੰ ਚਾਲੂ ਕਰਨਾ ਹੈ?</string>
+    <string name="shutdown_progress">ਬੰਦ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="smartspace_flight_qr_code">QR ਕੋਡ</string>
+    <string name="squeeze_invocation_prompt">ਗੱਲ ਕਰਨ ਲਈ ਘੁੱਟੋ</string>
+    <string name="standard_battery_saver_text">ਮਿਆਰੀ</string>
+    <string name="too_hot_label">Pixel ਬਹੁਤ ਗਰਮ ਹੈ</string>
+    <string name="wireless_charging_label">ਬਿਨਾਂ ਤਾਰ ਤੋਂ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ</string>
+</resources>

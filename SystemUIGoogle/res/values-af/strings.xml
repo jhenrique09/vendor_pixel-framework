@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Stemsoektog</string>
+    <string name="accessibility_next_alarm">Volgende wekker om %s</string>
+    <string name="accessibility_settings_gear">Pixel Stand-instellings</string>
+    <string name="accessibility_smartspace_page">Bladsy %1$d van %2$d</string>
+    <string name="adaptive_charging_notify_des">Battery is vol teen %1$s. Laai geleidelik om battery se lewensduur te verleng.</string>
+    <string name="adaptive_charging_notify_title">Aanpasbare laaiproses is aan</string>
+    <string name="adaptive_charging_notify_turn_off_once">Skakel een keer af</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Aanpasbare laaiproses • Vol teen %2$s</string>
+    <string name="assistant_keyboard_icon_label">Sleutelbord</string>
+    <string name="assistant_scrim_label">Luister tans; tik om te kanselleer</string>
+    <string name="assistant_zero_state_icon_label">Assistent-oorsig</string>
+    <string name="battery_health_notify_learn_more">Kom meer te wete</string>
+    <string name="charging_reverse_text">Deel tans battery</string>
+    <string name="columbus_bouncer_message">Ontsluit om Dubbeltik te voltooi</string>
+    <string name="columbus_target_request_dialog_allow">Laat toe</string>
+    <string name="columbus_target_request_dialog_deny">Weier</string>
+    <string name="columbus_target_request_dialog_summary">Tik twee keer op jou foon se agterkant om %1$s oop te maak. Jy kan dit enige tyd in Instellings verander.</string>
+    <string name="columbus_target_request_dialog_title">Laat toe dat Dubbeltik %1$s oopmaak?</string>
+    <string name="defender_notify_des">Laaiproses word geoptimeer om jou batteryleeftyd te help verleng</string>
+    <string name="defender_notify_resume_charge">Laai tot vol</string>
+    <string name="defender_notify_title">Beskerm jou battery</string>
+    <string name="defender_post_notify_des">Laaiproses is van %1$s na %2$s geoptimeer om batteryleeftyd te help verleng</string>
+    <string name="defender_post_notify_title">Laaiproses is geoptimeer</string>
+    <string name="dock_a11y_action_show_photo_text">Wys fotoraam</string>
+    <string name="dock_alignment_not_charging" product="default">Herbelyn foon om draadloos te laai</string>
+    <string name="dock_alignment_slow_charging" product="default">Herbelyn foon om vinniger te laai</string>
+    <string name="dock_defender_first_run_des">Laaiproses word geoptimeer terwyl toestel gedok is om jou batteryleeftyd te help verleng. Gaan na Instellings om vol te laai.</string>
+    <string name="dock_defender_first_run_settings">Instellings</string>
+    <string name="dock_defender_first_run_title">Beskerm jou battery</string>
+    <string name="dock_photo_preview_text">Fotoraam begin …</string>
+    <string name="dock_promo_text">Swiep links of regs vir fotoraam</string>
+    <string name="extreme_battery_saver_text">Ekstreem</string>
+    <string name="extreme_low_battery_notification_text">Jou foon sal afskakel as dit nie binnekort gelaai word nie</string>
+    <string name="extreme_low_battery_notification_title">Battery is byna pap</string>
+    <string name="face_reenroll_dialog_confirm">Stel op</string>
+    <string name="finder_active">Jy kan hierdie foon met Kry My Toestel opspoor selfs wanneer dit afgeskakel is</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">Swiep om te praat</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">Kom meer te wete</string>
+    <string name="incompatible_charging_notify_des">Battery laai stadig of wil nie laai nie. Kyk of die kabel en kragprop saam met jou foon werk</string>
+    <string name="incompatible_charging_notify_title">Kwessie met laaibykomstigheid</string>
+    <string name="install_app">Installeer app</string>
+    <string name="keyguard_indication_trust_unlocked">Ontsluit gehou deur Hou Ontsluit</string>
+    <string name="low_battery_label">Lae battery</string>
+    <string name="low_battery_notification_text">%s batterykrag oor</string>
+    <string name="low_battery_notification_title">Skakel Standaardbatterybespaarder aan?</string>
+    <string name="quick_settings_rotation_posture_folded">gevou</string>
+    <string name="quick_settings_rotation_posture_unfolded">oopgevou</string>
+    <string name="reverse_charging_device_name_text">Ander Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s bied tans batterykrag (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Batterydeling is aan</string>
+    <string name="reverse_charging_title">Batterydeling</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Kanselleer</string>
+    <string name="saver_confirmation_dialog_subtitle">Kies die modus wat jy wil gebruik</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Sluit alle veranderinge wat hier bo gelys word, in. Onderbreek ook nienoodsaaklike apps en hul kennisgewings.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Verminder visuele effekte en agtergrondaktiwiteit, soos appopdaterings. Skakel Donkertema aan as dit nie klaar aan is nie.</string>
+    <string name="saver_confirmation_dialog_title">Welkom by batterybespaarder</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Superbatterybespaarder</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Standaardbatterybespaarder</string>
+    <string name="saver_notification_dismiss_text">Nee, dankie</string>
+    <string name="screen_protector_absent_message">Deaktiveer skermbeskermermodus om aanraking te verbeter wanneer jy nie ’n skermbeskermer gebruik nie.</string>
+    <string name="screen_protector_disable_notification">Deaktiveer kennisgewing</string>
+    <string name="screen_protector_go_to_settings">Gaan na instellings</string>
+    <string name="screen_protector_got_it">Het dit</string>
+    <string name="screen_protector_mode_title">Skermbeskermermodus</string>
+    <string name="screen_protector_present_message">Aktiveer skermbeskermermodus om aanraking te verbeter wanneer jy ’n skermbeskermer gebruik.</string>
+    <string name="selectable_url_description">Kiesbare URL</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Skakel oor</string>
+    <string name="severe_low_battery_dialog_switch_text">"%s batterykrag oor
+
+Alle nienoodsaaklike apps en hul kennisgewings sal onderbreek word"</string>
+    <string name="severe_low_battery_dialog_switch_title">Skakel oor na Superbatterybespaarder?</string>
+    <string name="severe_low_battery_dialog_text">"%s batterykrag oor
+
+Alle visuele effekte en agtergrondaktiwiteit sal verminder word, en alle nienoodsaaklike apps sal onderbreek word"</string>
+    <string name="severe_low_battery_dialog_title">Skakel Superbatterybespaarder aan?</string>
+    <string name="shutdown_progress">Skakel tans af …</string>
+    <string name="smartspace_flight_qr_code">QR-kode</string>
+    <string name="squeeze_invocation_prompt">Druk om te praat</string>
+    <string name="standard_battery_saver_text">Standaard</string>
+    <string name="too_hot_label">Pixel is te warm</string>
+    <string name="wireless_charging_label">Laai tans draadloos</string>
+</resources>

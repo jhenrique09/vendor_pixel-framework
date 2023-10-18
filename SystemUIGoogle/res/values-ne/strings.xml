@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">आवाजमा आधारित खोजी</string>
+    <string name="accessibility_next_alarm">आगामी अलार्म %s बजे बज्ने छ</string>
+    <string name="accessibility_settings_gear">Pixel Stand का सेटिङहरू</string>
+    <string name="accessibility_smartspace_page">%2$d मध्ये %1$d पृष्ठ</string>
+    <string name="adaptive_charging_notify_des">ब्याट्री %1$s मा फुल चार्ज हुने छ। ब्याट्रीको आयु बढाउन स्थिर रूपमा चार्ज गरिँदै छ।</string>
+    <string name="adaptive_charging_notify_title">एड्याप्टिभ चार्जिङ अन छ</string>
+    <string name="adaptive_charging_notify_turn_off_once">एकै पटक अफ गर्नुहोस्</string>
+    <string name="adaptive_charging_time_estimate">%1$sएड्याप्टिभ चार्जिङ अन छ%2$s • बजेसम्ममा पूरा चार्ज हुने छ</string>
+    <string name="assistant_keyboard_icon_label">किबोर्ड</string>
+    <string name="assistant_scrim_label">सुन्दै, रद्द गर्न ट्याप गर्नुहोस्</string>
+    <string name="assistant_zero_state_icon_label">सहायकसम्बन्धी जानकारी</string>
+    <string name="battery_health_notify_learn_more">थप जान्नुहोस्</string>
+    <string name="charging_reverse_text">ब्याट्री सेयर गरिँदै</string>
+    <string name="columbus_bouncer_message">\"क्विक ट्याप\" नामक कारबाही पूरा गर्न अनलक गर्नुहोस्</string>
+    <string name="columbus_target_request_dialog_allow">अनुमति दिनुहोस्</string>
+    <string name="columbus_target_request_dialog_deny">अनुमति नदिनुहोस्</string>
+    <string name="columbus_target_request_dialog_summary">%1$s खोल्न आफ्नो फोनको पछाडिपट्टि दुई पटक ट्याप गर्नुहोस्। तपाईं जुनसुकै बेला सेटिङमा गई यो कुरा परिवर्तन गर्न सक्नुहुन्छ।</string>
+    <string name="columbus_target_request_dialog_title">%1$s क्विक ट्याप गरेर खोल्न दिने हो?</string>
+    <string name="defender_notify_des">ब्याट्रीको आयु बढाउने प्रयोजनका लागि चार्ज गर्ने प्रक्रिया अप्टिमाइज गरिन्छ</string>
+    <string name="defender_notify_resume_charge">फुल चार्ज गर्नुहोस्</string>
+    <string name="defender_notify_title">तपाईंको ब्याट्रीको सुरक्षा गरिँदै छ</string>
+    <string name="defender_post_notify_des">ब्याट्रीको आयु बढाउने प्रयोजनका लागि चार्ज गर्ने प्रक्रिया %1$s बजेदेखि %2$s बजेसम्म अप्टिमाइज गरिएको थियो</string>
+    <string name="defender_post_notify_title">चार्ज गर्ने प्रक्रिया अप्टिमाइज गरिएको थियो</string>
+    <string name="dock_a11y_action_show_photo_text">फोटो फ्रेम देखाउनुहोस्</string>
+    <string name="dock_alignment_not_charging" product="default">तारविनै चार्ज गर्न फोनलाई फेरि मिलाउनुहोस्</string>
+    <string name="dock_alignment_slow_charging" product="default">अझ छिटो चार्ज गर्न फोनलाई फेरि मिलाउनुहोस्</string>
+    <string name="dock_defender_first_run_des">तपाईंको डिभाइस डक गरिएका बेला उक्त डिभाइसको ब्याट्रीको आयु बढाउने प्रयोजनका लागि चार्ज गर्ने प्रक्रिया अप्टिमाइज गरिन्छ। तपाईं फुल चार्ज गर्न चाहनुहुन्छ भने सेटिङमा जानुहोस्।</string>
+    <string name="dock_defender_first_run_settings">सेटिङ</string>
+    <string name="dock_defender_first_run_title">तपाईंको ब्याट्रीको सुरक्षा गरिँदै छ</string>
+    <string name="dock_photo_preview_text">फोटो फ्रेम सुरु हुँदै छ...</string>
+    <string name="dock_promo_text">तस्बिरको फ्रेम प्राप्त गर्न बायाँतिर स्वाइप गर्नुहोस्</string>
+    <string name="extreme_battery_saver_text">चरम</string>
+    <string name="extreme_low_battery_notification_text">तपाईंले आफ्नो फोन चाँडै चार्ज गर्नुभएन भने सो फोन अफ हुने छ</string>
+    <string name="extreme_low_battery_notification_title">ब्याट्री ज्यादै कम छ</string>
+    <string name="face_reenroll_dialog_confirm">सेटअप गर्नुहोस्</string>
+    <string name="finder_active">तपाईं Find My Device प्रयोग गरी यो डिभाइस अफ भएपनि डिभाइस पत्ता लगाउन सक्नुहुन्छ</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">कुराकानी गर्न स्वाइप गर्नुहोस्</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">थप जान्नुहोस्</string>
+    <string name="incompatible_charging_notify_des">ब्याट्री बिस्तारै चार्ज हुँदै छ वा चार्ज भइरहेकै छैन। केबल र पावर एडाप्टरले तपाईंको फोनमा काम गर्छ कि गर्दैन भन्ने कुरा जाँच्नुहोस्</string>
+    <string name="incompatible_charging_notify_title">चार्ज गर्ने एक्सेसरीमा कुनै समस्या आयो</string>
+    <string name="install_app">एप इन्स्टल गर्नुहोस्</string>
+    <string name="keyguard_indication_trust_unlocked">एक्स्टेन्ड अनलकले डिभाइस अनलक नै राखेको छ</string>
+    <string name="low_battery_label">ब्याट्री कम छ</string>
+    <string name="low_battery_notification_text">%s ब्याट्री बाँकी छ</string>
+    <string name="low_battery_notification_title">सामान्य ब्याट्री सेभर अन गर्ने हो?</string>
+    <string name="quick_settings_rotation_posture_folded">फोल्ड गरिएको</string>
+    <string name="quick_settings_rotation_posture_unfolded">अनफोल्ड गरिएको</string>
+    <string name="reverse_charging_device_name_text">अर्को Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$sप्रयोग गरी ब्याट्री चार्ज गरिँदै छ (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ब्याट्री सेयर नामक सुविधा सक्रिय छ</string>
+    <string name="reverse_charging_title">ब्याट्री सेयर</string>
+    <string name="saver_confirmation_dialog_dismiss_text">रद्द गर्नुहोस्</string>
+    <string name="saver_confirmation_dialog_subtitle">प्रयोग गरिनु पर्ने मोड चयन गर्नुहोस्</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">माथि सूचीकृत सबै परिवर्तनहरू समावेश गर्छ। साथै, अत्यावश्यक नरहेका एप र तिनका सूचनाहरू पज गर्छ।</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">एपका अपडेटलगायतका ब्याकग्राउन्डमा हुने गतिविधि र भिजुअल इफेक्टहरू सीमित गर्छ। अँध्यारो थिम अन गरिएको छैन भने उक्त थिम अन गर्छ।</string>
+    <string name="saver_confirmation_dialog_title">ब्याट्री सेभरमा स्वागत छ</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">एक्स्ट्रिम ब्याट्री सेभर</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">डिफल्ट ब्याट्री सेभर</string>
+    <string name="saver_notification_dismiss_text">पर्दैन, धन्यवाद</string>
+    <string name="screen_protector_absent_message">स्क्रिन प्रोटेक्टर मोड अफ गरेका खण्डमा स्क्रिन प्रोटेक्टर प्रयोग नगर्दा मात्र टचले राम्रोसँग काम गर्छ।</string>
+    <string name="screen_protector_disable_notification">सूचना प्राप्त गर्ने सुविधा अफ गर्नुहोस्</string>
+    <string name="screen_protector_go_to_settings">सेटिङमा जानुहोस्</string>
+    <string name="screen_protector_got_it">बुझेँ</string>
+    <string name="screen_protector_mode_title">स्क्रिन प्रोटेक्टर मोड</string>
+    <string name="screen_protector_present_message">स्क्रिन प्रोटेक्टर मोड अन गरेका खण्डमा स्क्रिन प्रोटेक्टर प्रयोग गर्दा पनि टचले राम्रोसँग काम गर्छ।</string>
+    <string name="selectable_url_description">चयन गर्न मिल्ने URL</string>
+    <string name="severe_low_battery_dialog_switch_action_text">बदल्नुहोस्</string>
+    <string name="severe_low_battery_dialog_switch_text">"%s ब्याट्री बाँकी छ
+
+तपाईंले एक्स्ट्रिम ब्याट्री सेभर अन गर्नुभयो भने अत्यावश्यकबाहेकका सबै एप र तिनका सूचनाहरू केही समयका लागि पज गरिने छन्"</string>
+    <string name="severe_low_battery_dialog_switch_title">एक्स्ट्रिम ब्याट्री सेभर अन गर्ने हो?</string>
+    <string name="severe_low_battery_dialog_text">"%s ब्याट्री बाँकी छ
+
+तपाईंले एक्स्ट्रिम ब्याट्री सेभर अन गर्नुभयो भने ब्याकग्राउन्डमा हुने गतिविधि र भिजुअल इफेक्टहरूको सङ्ख्या घटाइने छ र अत्यावश्यकबाहेकका सबै एप केही समयका लागि पज गरिने छन्"</string>
+    <string name="severe_low_battery_dialog_title">एक्स्ट्रिम ब्याट्री सेभर अन गर्ने हो?</string>
+    <string name="shutdown_progress">बन्द गरिँदै छ...</string>
+    <string name="smartspace_flight_qr_code">QR कोड</string>
+    <string name="squeeze_invocation_prompt">कुराकानी गर्न डिभाइसका किनाराहरूमा थिच्नुहोस्</string>
+    <string name="standard_battery_saver_text">डिफल्ट</string>
+    <string name="too_hot_label">पिक्सेल ज्यादै तातेको छ</string>
+    <string name="wireless_charging_label">ताररहित रूपमा चार्ज गरिँदै</string>
+</resources>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Pesquisa por voz</string>
+    <string name="accessibility_next_alarm">Próximo alarme à(s) %s</string>
+    <string name="accessibility_settings_gear">Definições do Pixel Stand</string>
+    <string name="accessibility_smartspace_page">Página %1$d de %2$d</string>
+    <string name="adaptive_charging_notify_des">Bateria totalmente carregada até à(s) %1$s. A carregar de forma regular para prolongar o tempo de vida útil da bateria.</string>
+    <string name="adaptive_charging_notify_title">O carregamento adaptável está ativado</string>
+    <string name="adaptive_charging_notify_turn_off_once">Desativar uma vez</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Carregamento adaptável • Completo até à(s) %2$s</string>
+    <string name="assistant_keyboard_icon_label">Teclado</string>
+    <string name="assistant_scrim_label">A ouvir… Toque para cancelar.</string>
+    <string name="assistant_zero_state_icon_label">Vista geral do Assistente</string>
+    <string name="battery_health_notify_learn_more">Saber mais</string>
+    <string name="charging_reverse_text">A partilhar a bateria</string>
+    <string name="columbus_bouncer_message">Desbloqueie para efetuar o Quick Tap</string>
+    <string name="columbus_target_request_dialog_allow">Permitir</string>
+    <string name="columbus_target_request_dialog_deny">Não permitir</string>
+    <string name="columbus_target_request_dialog_summary">Toque duas vezes na parte posterior do telemóvel para abrir a app %1$s. Poderá alterar esta definição em qualquer altura nas Definições.</string>
+    <string name="columbus_target_request_dialog_title">Permitir que o Quick Tap abra a app %1$s?</string>
+    <string name="defender_notify_des">O carregamento é otimizado para ajudar a aumentar a vida útil da bateria</string>
+    <string name="defender_notify_resume_charge">Carregar até carga completa</string>
+    <string name="defender_notify_title">Proteger a sua bateria</string>
+    <string name="defender_post_notify_des">Para ajudar a aumentar a vida útil da bateria, o carregamento foi otimizado da(s) %1$s à(s) %2$s</string>
+    <string name="defender_post_notify_title">O carregamento foi otimizado</string>
+    <string name="dock_a11y_action_show_photo_text">Mostrar Moldura de foto</string>
+    <string name="dock_alignment_not_charging" product="default">Realinhe o telemóvel para carregar sem fios.</string>
+    <string name="dock_alignment_slow_charging" product="default">Realinhe o telemóvel para um carregamento mais rápido.</string>
+    <string name="dock_defender_first_run_des">O carregamento é otimizado quando está na estação de carregamento para aumentar a vida útil da bateria. Aceda às Definições para um carregamento completo.</string>
+    <string name="dock_defender_first_run_settings">Definições</string>
+    <string name="dock_defender_first_run_title">Proteger a sua bateria</string>
+    <string name="dock_photo_preview_text">A iniciar a Moldura de foto…</string>
+    <string name="dock_promo_text">Deslize rapidamente para a esquerda para aceder à Moldura de foto.</string>
+    <string name="extreme_battery_saver_text">Extrema</string>
+    <string name="extreme_low_battery_notification_text">O telemóvel vai ser encerrado se não for carregado brevemente</string>
+    <string name="extreme_low_battery_notification_title">Bateria muito fraca</string>
+    <string name="face_reenroll_dialog_confirm">Configurar</string>
+    <string name="finder_active">Pode localizar este telemóvel com o serviço Localizar o meu dispositivo mesmo quando está desligado</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">Deslize rapidamente para falar</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">Saber mais</string>
+    <string name="incompatible_charging_notify_des">A bateria está a carregar lentamente ou não carrega. Verifique se o cabo e o transformador funcionam com o seu telemóvel</string>
+    <string name="incompatible_charging_notify_title">Problema com o acessório de carregamento</string>
+    <string name="install_app">Instalar app</string>
+    <string name="keyguard_indication_trust_unlocked">Mantido desbloq. pelo Desbloqueio extra</string>
+    <string name="low_battery_label">Bateria fraca</string>
+    <string name="low_battery_notification_text">%s de bateria restante</string>
+    <string name="low_battery_notification_title">Ativar a Poupança de bateria padrão?</string>
+    <string name="quick_settings_rotation_posture_folded">fechado</string>
+    <string name="quick_settings_rotation_posture_unfolded">aberto</string>
+    <string name="reverse_charging_device_name_text">Outro Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s a fornecer carga (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">A Partilha de bateria está ativada</string>
+    <string name="reverse_charging_title">Partilhar bateria</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Cancelar</string>
+    <string name="saver_confirmation_dialog_subtitle">Selecione o modo a usar</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Inclui todas as alterações indicadas acima. Também pausa apps não essenciais e as respetivas notificações.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Limita os efeitos visuais e a atividade em segundo plano, como atualizações de apps. Se o tema escuro estiver desativado, ativa-o.</string>
+    <string name="saver_confirmation_dialog_title">Damos-lhe as boas-vindas à Poupança de bateria</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Poupança de bateria extrema</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Poupança de bateria padrão</string>
+    <string name="saver_notification_dismiss_text">Não</string>
+    <string name="screen_protector_absent_message">A desativação do modo de protetor de ecrã melhora o toque quando não usa um protetor de ecrã.</string>
+    <string name="screen_protector_disable_notification">Desativar notificação</string>
+    <string name="screen_protector_go_to_settings">Aceder às definições</string>
+    <string name="screen_protector_got_it">OK</string>
+    <string name="screen_protector_mode_title">Modo de protetor de ecrã</string>
+    <string name="screen_protector_present_message">A ativação do modo de protetor de ecrã melhora o toque quando é usado um protetor de ecrã.</string>
+    <string name="selectable_url_description">URL selecionável</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Mudar</string>
+    <string name="severe_low_battery_dialog_switch_text">"%s de bateria restante
+
+Isto vai pausar todas as apps não essenciais e as respetivas notificações"</string>
+    <string name="severe_low_battery_dialog_switch_title">Mudar para a Poupança de bateria extrema?</string>
+    <string name="severe_low_battery_dialog_text">"%s de bateria restante
+
+Isto vai reduzir os efeitos visuais e a atividade em segundo plano, bem como pausar todas as apps não essenciais"</string>
+    <string name="severe_low_battery_dialog_title">Ativar a Poupança de bateria extrema?</string>
+    <string name="shutdown_progress">A encerrar…</string>
+    <string name="smartspace_flight_qr_code">Código QR</string>
+    <string name="squeeze_invocation_prompt">Aperte para falar.</string>
+    <string name="standard_battery_saver_text">Padrão</string>
+    <string name="too_hot_label">Pixel demasiado quente</string>
+    <string name="wireless_charging_label">A carregar por ligação sem fios…</string>
+</resources>

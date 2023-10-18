@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Sesli arama</string>
+    <string name="accessibility_next_alarm">Sonraki alarm saati: %s</string>
+    <string name="accessibility_settings_gear">Pixel Stand ayarları</string>
+    <string name="accessibility_smartspace_page">Sayfa %1$d/%2$d</string>
+    <string name="adaptive_charging_notify_des">Pil, saat %1$s olduğunda dolacak. Pil ömrünü uzatmak için sürekli şarj oluyor.</string>
+    <string name="adaptive_charging_notify_title">Uyarlanabilir Şarj açık</string>
+    <string name="adaptive_charging_notify_turn_off_once">Bir kez kapat</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Uyarlanabilir şarj • Tam şarj zamanı: %2$s</string>
+    <string name="assistant_keyboard_icon_label">Klavye</string>
+    <string name="assistant_scrim_label">Dinliyorum, iptal etmek için dokunun.</string>
+    <string name="assistant_zero_state_icon_label">"Asistan'a Genel Bakış"</string>
+    <string name="battery_health_notify_learn_more">Daha fazla bilgi</string>
+    <string name="charging_reverse_text">Pil paylaşılıyor</string>
+    <string name="columbus_bouncer_message">Hızlı Dokun hareketini tamamlamak için kilidi açın</string>
+    <string name="columbus_target_request_dialog_allow">İzin ver</string>
+    <string name="columbus_target_request_dialog_deny">İzin verme</string>
+    <string name="columbus_target_request_dialog_summary">"%1$s uygulamasını açmak için telefonunuzun arkasına iki kez dokunun. İstediğiniz zaman bunu Ayarlar'dan değiştirebilirsiniz."</string>
+    <string name="columbus_target_request_dialog_title">Hızlı Dokun özelliğinin %1$s uygulamasını açmasına izin verilsin mi?</string>
+    <string name="defender_notify_des">Şarj işlemi pilinizin kullanım ömrünü uzatmaya yardımcı olacak şekilde optimize edildi</string>
+    <string name="defender_notify_resume_charge">Tam kapasitede şarj et</string>
+    <string name="defender_notify_title">Pilinizin korunması</string>
+    <string name="defender_post_notify_des">Pil kullanım ömrünü uzatmaya yardımcı olmak için şarj işlemi %1$s-%2$s saatleri arasında optimize edildi</string>
+    <string name="defender_post_notify_title">Şarj işlemi optimize edildi</string>
+    <string name="dock_a11y_action_show_photo_text">Fotoğraf çerçevesi göster</string>
+    <string name="dock_alignment_not_charging" product="default">Telefonu kablosuz olarak şarj etmek için yerini ayarlayın</string>
+    <string name="dock_alignment_slow_charging" product="default">Daha hızlı şarj olması için telefonun yerini ayarlayın</string>
+    <string name="dock_defender_first_run_des">"Cihazınız yuvadayken pilinizin kullanım ömrünü uzatmanıza yardımcı olmak için şarj işlemi optimize edildi. Pili tam olarak şarj etmek için Ayarlar'a gidin."</string>
+    <string name="dock_defender_first_run_settings">Ayarlar</string>
+    <string name="dock_defender_first_run_title">Pilinizin korunması</string>
+    <string name="dock_photo_preview_text">Fotoğraf çerçevesi başlıyor...</string>
+    <string name="dock_promo_text">Fotoğraf çerçevesi için sola kaydırın</string>
+    <string name="extreme_battery_saver_text">Yüksek</string>
+    <string name="extreme_low_battery_notification_text">Kısa bir süre içinde şarj edilmezse telefonunuz kapanacak</string>
+    <string name="extreme_low_battery_notification_title">Pil düzeyi çok düşük</string>
+    <string name="face_reenroll_dialog_confirm">Kur</string>
+    <string name="finder_active">"Cihazımı Bul'u kullanarak kapalı olsa bile telefonunuzu bulabilirsiniz"</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">Konuşmak için kaydırın</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">Daha fazla bilgi</string>
+    <string name="incompatible_charging_notify_des">Pil yavaş şarj oluyor veya hiç şarj olmuyor. Kablo ve güç adaptörünün telefonunuzla çalışıp çalışmadığını kontrol edin</string>
+    <string name="incompatible_charging_notify_title">Şarj aksesuarı ile ilgili sorun</string>
+    <string name="install_app">Uygulamayı yükle</string>
+    <string name="keyguard_indication_trust_unlocked">Artırılmış Kilit Açma kilidi açık tuttu</string>
+    <string name="low_battery_label">Pil seviyesi düşük</string>
+    <string name="low_battery_notification_text">%s pil kaldı</string>
+    <string name="low_battery_notification_title">Standart Pil Tasarrufu açılsın mı?</string>
+    <string name="quick_settings_rotation_posture_folded">katlanmış</string>
+    <string name="quick_settings_rotation_posture_unfolded">katlanmamış</string>
+    <string name="reverse_charging_device_name_text">Diğer Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s şarj sağlıyor (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Pil Paylaşımı açık</string>
+    <string name="reverse_charging_title">Pil Paylaşımı</string>
+    <string name="saver_confirmation_dialog_dismiss_text">İptal</string>
+    <string name="saver_confirmation_dialog_subtitle">Kullanılacak modu seçin</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Yukarıda listelenen tüm değişiklikleri içerir. Bunun yanı sıra, gerekli olmayan uygulamaları ve bildirimlerini duraklatır.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Görsel efektleri ve uygulama güncellemeleri gibi arka plan etkinliğini azaltır. Açık değilse koyu temayı açar.</string>
+    <string name="saver_confirmation_dialog_title">"Pil Tasarrufu'na hoş geldiniz"</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Ekstra Pil Tasarrufu</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Standart Pil Tasarrufu</string>
+    <string name="saver_notification_dismiss_text">Hayır, teşekkürler</string>
+    <string name="screen_protector_absent_message">Bu modun devre dışı bırakılması, ekran koruyucu kullanılmadığında dokunma işlevini iyileştirir.</string>
+    <string name="screen_protector_disable_notification">Bildirimi devre dışı bırak</string>
+    <string name="screen_protector_go_to_settings">Ayarlara git</string>
+    <string name="screen_protector_got_it">Anladım</string>
+    <string name="screen_protector_mode_title">Ekran koruyucu modu</string>
+    <string name="screen_protector_present_message">Bu modun etkinleştirilmesi, ekran koruyucu kullanıldığında dokunma işlevini iyileştirir.</string>
+    <string name="selectable_url_description">Seçilebilir URL</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Geç</string>
+    <string name="severe_low_battery_dialog_switch_text">"%s pil kaldı
+
+Bu işlem, gerekli olmayan tüm uygulamaları ve bildirimlerini duraklatır"</string>
+    <string name="severe_low_battery_dialog_switch_title">"Ekstra Pil Tasarrufu'na geçilsin mi?"</string>
+    <string name="severe_low_battery_dialog_text">"%s pil kaldı
+
+Bu işlem, görsel efektleri ve arka plan etkinliğini azaltmanın yanı sıra gerekli olmayan tüm uygulamaları da duraklatır"</string>
+    <string name="severe_low_battery_dialog_title">Ekstra Pil Tasarrufu açılsın mı?</string>
+    <string name="shutdown_progress">Kapanıyor…</string>
+    <string name="smartspace_flight_qr_code">QR kodu</string>
+    <string name="squeeze_invocation_prompt">Konuşmak için sıkın</string>
+    <string name="standard_battery_saver_text">Standart</string>
+    <string name="too_hot_label">Pixel çok sıcak</string>
+    <string name="wireless_charging_label">Kablosuz şarj oluyor</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_assistant_poodle">Айтып издөө</string>
+    <string name="accessibility_next_alarm">Кийинки ойготкуч саат %s иштейт</string>
+    <string name="accessibility_settings_gear">Pixel Stand параметрлери</string>
+    <string name="accessibility_smartspace_page">%2$d беттин %1$d-бети</string>
+    <string name="adaptive_charging_notify_des">Батарея cаат %1$s толук кубатталат. Батареянын иштөө мөөнөтүн узартуу максатында туруктуу кубатталууда.</string>
+    <string name="adaptive_charging_notify_title">Этият кубаттоо күйүк</string>
+    <string name="adaptive_charging_notify_turn_off_once">Бир жолу өчүрүү</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Этият кубаттоо • Саат %2$s кубатталып бүтөт</string>
+    <string name="assistant_keyboard_icon_label">Баскычтоп</string>
+    <string name="assistant_scrim_label">Угуп жатат, жокко чыгаруу үчүн басыңыз</string>
+    <string name="assistant_zero_state_icon_label">Жардамчы жөнүндө жалпы маалымат</string>
+    <string name="battery_health_notify_learn_more">Кененирээк</string>
+    <string name="charging_reverse_text">Батареянын кубатын бөлүшүү</string>
+    <string name="columbus_bouncer_message">Тез баскылоо жаңсоосун аягына чыгаруу үчүн кулпуну ачыңыз</string>
+    <string name="columbus_target_request_dialog_allow">Уруксат берүү</string>
+    <string name="columbus_target_request_dialog_deny">Тыюу салуу</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ачуу үчүн телефонуңуздун аркасын эки жолу басыңыз. Бул функциянын параметрлерин \"Параметрлер\" бөлүмүнөн өзгөртө аласыз.</string>
+    <string name="columbus_target_request_dialog_title">%1$s колдонмосун ачуу үчүн тез баскылоо функциясын иштетесизби?</string>
+    <string name="defender_notify_des">Батареяны көпкө пайдалануу үчүн кубаттоо процесси оптималдаштырылды</string>
+    <string name="defender_notify_resume_charge">Толук кубаттоо</string>
+    <string name="defender_notify_title">Батареяңызды коргоңуз</string>
+    <string name="defender_post_notify_des">Батареяны көбүрөөк пайдалануу үчүн кубаттоо %1$s ордуна %2$s болуп оптималдаштырылды</string>
+    <string name="defender_post_notify_title">Кубаттоо оптималдаштырылды</string>
+    <string name="dock_a11y_action_show_photo_text">Фото алкакты көрүү</string>
+    <string name="dock_alignment_not_charging" product="default">Телефонду зымсыз кубаттоо үчүн туура коюңуз</string>
+    <string name="dock_alignment_slow_charging" product="default">Телефонду ыкчам кубаттоо үчүн туура коюңуз</string>
+    <string name="dock_defender_first_run_des">Түзмөгүңүз док станцияга туташканда, ал оптималдуу кубатталып, батареяңызды көпкө чейин пайдаланасыз. Толук кубаттоо үчүн параметрлерге өтүңүз.</string>
+    <string name="dock_defender_first_run_settings">Параметрлер</string>
+    <string name="dock_defender_first_run_title">Батареяңызды коргоңуз</string>
+    <string name="dock_photo_preview_text">Фото алкак ишке киргизилүүдө...</string>
+    <string name="dock_promo_text">Фото алкакты көрүү үчүн экранды солго сүрүңүз</string>
+    <string name="extreme_battery_saver_text">Кескин</string>
+    <string name="extreme_low_battery_notification_text">Телефонду кубаттабасаңыз, ал бир аздан кийин өчүп калат</string>
+    <string name="extreme_low_battery_notification_title">Батарея отурайын деп калды</string>
+    <string name="face_reenroll_dialog_confirm">Жөндөө</string>
+    <string name="face_reenroll_failure_dialog_content">Жүзүнөн таанып ачуу функциясы жөндөлгөн жок. Параметрлерге өтүп, кайталап көрүңүз.</string>
+    <string name="finder_active">Бул телефон өчүк болсо да, аны \"Түзмөгүм кайда?\" кызматы аркылуу таба аласыз</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="handle_invocation_prompt">Жардамчыны иштетүү үчүн экранды сүрүңүз</string>
+    <string name="home_controls_tile_title">Home</string>
+    <string name="incompatible_charging_learn_more">Кеңири маалымат</string>
+    <string name="incompatible_charging_notify_des">Батарея кубатталган жок же жай кубатталып жатат. Кабель жана кубаттагыч адаптери телефонуңузга шайкеш келерин текшериңиз</string>
+    <string name="incompatible_charging_notify_title">Кубаттоочу шайманда көйгөй бар</string>
+    <string name="install_app">Колдонмону орнотуу</string>
+    <string name="keyguard_indication_trust_unlocked">Кулпуланбаган режим иштеп жатат</string>
+    <string name="low_battery_label">Батареянын кубаты төмөн</string>
+    <string name="low_battery_notification_text">Батареянын кубаты %s калды</string>
+    <string name="low_battery_notification_title">Кадимки кубат үнөмдөө режимин күйгүзөсүзбү?</string>
+    <string name="quick_settings_rotation_posture_folded">бүктөлгөн</string>
+    <string name="quick_settings_rotation_posture_unfolded">бүктөлгөн эмес</string>
+    <string name="reverse_charging_device_name_text">Башка Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s кубатын бөлүшүп жатат (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Батареяны бөлүшүү күйүк</string>
+    <string name="reverse_charging_title">Батарея бөлүшүү</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Жокко чыгаруу</string>
+    <string name="saver_confirmation_dialog_subtitle">Колдонула турган режимди тандаңыз</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Жогоруда тизмеленген бардык өзгөртүүлөрдү камтыйт. Ошондой эле керексиз колдонмолорду жана алар жөнөткөн билдирмелерди тындырат.</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Визуалдык эффекттерди жана колдонмонун жаңыртуулары сыяктуу фондогу аракеттерди чектейт. Эгер күйгүзүлө элек болсо, Караңгы теманы күйгүзүңүз.</string>
+    <string name="saver_confirmation_dialog_title">Батареяны үнөмдөгүч режимине кош келиңиз</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Батареяны кескин үнөмдөө режими</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Стандарттуу Батареяны үнөмдөгүч</string>
+    <string name="saver_notification_dismiss_text">Жок, рахмат</string>
+    <string name="screen_protector_absent_message">Экранды коргоочу пленканы колдонбосоңуз, экранды коргоочу режимди өчүрүп коюңуз.</string>
+    <string name="screen_protector_disable_notification">Билдирме алууну токтотуу</string>
+    <string name="screen_protector_go_to_settings">Параметрлерге өтүү</string>
+    <string name="screen_protector_got_it">Түшүндүм</string>
+    <string name="screen_protector_mode_title">Экранды коргоочу режим</string>
+    <string name="screen_protector_present_message">Экранды коргоочу пленканы колдонсоңуз, экранды коргоочу режимди иштетип коюңуз.</string>
+    <string name="selectable_url_description">Тандала турган URL</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Которулуу</string>
+    <string name="severe_low_battery_dialog_switch_text">"Батареянын кубаты %s калды
+
+Кереги жок колдонмолордун баары жана алардын билдирмелери тындырылат"</string>
+    <string name="severe_low_battery_dialog_switch_title">Батареяны кескин үнөмдөө режимине которуласызбы?</string>
+    <string name="severe_low_battery_dialog_text">"Батареянын кубаты %s калды
+
+Визуалдык эффекттер жана фондогу аракеттер азайып, кереги жок колдонмолордун баарын тындырылат"</string>
+    <string name="severe_low_battery_dialog_title">Батареяны кескин үнөмдөө режими күйгүзүлсүнбү?</string>
+    <string name="shutdown_progress">Өчүрүлүүдө…</string>
+    <string name="smartspace_flight_qr_code">QR код</string>
+    <string name="squeeze_invocation_prompt">Сүйлөшүү үчүн кысыңыз</string>
+    <string name="standard_battery_saver_text">Кадимки</string>
+    <string name="too_hot_label">Pixel өтө ысып кетти</string>
+    <string name="wireless_charging_label">Зымсыз кубатталууда</string>
+</resources>
